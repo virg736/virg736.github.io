@@ -1,0 +1,26 @@
+body {
+background-color: #0d1117;
+color: #c9d1d9;
+font-family: "Segoe UI", sans-serif;
+padding: 2rem;
+}
+
+h1, h2, h3 {
+color: #58a6ff;
+}
+
+a {
+color: #79c0ff;
+text-decoration: none;
+}
+
+a:hover {
+text-decoration: underline;
+}
+
+img {
+display: block;
+margin: 2rem auto;
+max-width: 100%;
+border-radius: 4px;
+}
