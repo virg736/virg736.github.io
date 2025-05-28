@@ -40,3 +40,5 @@ Vulnerability scanning with OpenVAS.
 
 Email: [virginielechene@proton.me](mailto:virginielechene@proton.me)
 GitHub: [https://github.com/virg736](https://github.com/virg736)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virginie-lechene-fr)
+
