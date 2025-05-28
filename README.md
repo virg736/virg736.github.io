@@ -1,9 +1,5 @@
 ---
 
-![Virginie Lechene – Pentester](./Pentester.PNG)
-
-
-
 layout: default
 title: Virginie Lechene | Cybersecurity Portfolio
 ---
