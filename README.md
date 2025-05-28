@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: Virginie Lechene | Cybersecurity Portfolio
+title: Virginie | Cybersecurity Portfolio
 
 ---
 
