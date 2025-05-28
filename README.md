@@ -5,7 +5,6 @@ title: Virginie Lechene | Cybersecurity Portfolio
 
 ---
 
-![Virginie Lechene – Pentester](Pentester.PNG)
 <p align="center">
 <img src="Pentester.PNG" alt="Virginie Lechene – Pentester" style="width:100%; max-width:1000px;" />
 </p>
