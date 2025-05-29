@@ -3,8 +3,7 @@ layout: default
 title: Virginie Lechene | Cybersecurity Portfolio
 ---
 
-<img src="/virg736.github.io-en/Pentester.PNG" alt="Virginie Lechene – Pentester" style="width:100vw; height:auto; display:block; margin:auto;" />
-<img src="/assets/Pentester.PNG" alt="Virginie Lechene – Pentester" style="width:100vw; height:auto; display:block; margin:0 auto;" />
+<img src="/Pentester.PNG" alt="Virginie Lechene – Pentester" style="width:100vw; height:auto; display:block; margin:0 auto;" />
 
 
 
