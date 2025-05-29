@@ -3,6 +3,10 @@ layout: default
 title: Virginie Lechene | Cybersecurity Portfolio
 ---
 
+
+<img src="/Pentester.PNG" alt="Virginie Lechene – Pentester" style="width:100vw; height:auto; display:block; margin:0 auto;" />
+
+
 #  Virginie Lechene
 
 Welcome to my portfolio focused on offensive and defensive cybersecurity.
