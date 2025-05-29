@@ -18,6 +18,7 @@ Pentesting · Offensive security · GDPR awareness · Vulnerability analysis
 
 ---
 
+<a id="projects"></a>
 ## My GitHub Projects
 
 - [Brute Force – Educational exercise](https://github.com/virg736/brute-force-exercice)
@@ -37,10 +38,6 @@ Vulnerability scanning with OpenVAS.
 
 ---
 
-## <a id="projects">My GitHub Projects</a>
-
-
-...
 
 <a id="contact"></a>
 ## Contact
