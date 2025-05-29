@@ -23,7 +23,17 @@ Welcome to my portfolio focused on offensive and defensive cybersecurity.
 - [Brute Force – Educational Exercise](https://github.com/virg736/brute-force-exercice)
 Learn how brute-force attacks work through a simple simulation.
 
+- [Enumeration Pentest](https://github.com/virg736/enumeration-pentest)
+Enumeration methodology in a network audit context.
 
+- [The Man-in-the-Middle](https://github.com/virg736/The-Man-in-the-Middle)
+Interception audit with Burp Suite, Fiddler, MITMProxy.
+
+- [Burp Proxy on Kali](https://github.com/virg736/burp-kali-proxy)
+Secure proxy setup with Burp on Kali Linux.
+
+- [OpenVAS Network Scan](https://github.com/virg736/Openvas)
+Vulnerability scanning with OpenVAS.
 
 
 
