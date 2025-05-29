@@ -39,8 +39,9 @@ Vulnerability scanning with OpenVAS.
 ---
 
 
-<a id="contact"></a>
+<h2 id="contact">Contact</h2>
 ## Contact
+
 Email: [virginielechene@proton.me](mailto:virginielechene@proton.me)
 GitHub: [https://github.com/virg736](https://github.com/virg736)
 
