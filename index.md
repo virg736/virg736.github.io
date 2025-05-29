@@ -3,17 +3,24 @@ layout: default
 title: Virginie Lechene | Cybersecurity Portfolio
 ---
 
-<p align="center">
-<img src="Pentester.PNG" alt="Virginie Lechene – Pentester" style="width:100%; max-width:1000px;" />
-</p>
-
-# Virginie Lechene
+#  Virginie Lechene
 
 Welcome to my portfolio focused on offensive and defensive cybersecurity.
-Pentesting • Offensive security • GDPR awareness • Vulnerability analysis
 
-## My GitHub Projects
+- 🔍 Penetration Testing
+- 🔐 Offensive Security
+- 🛡️ GDPR awareness
+- 🧠 Vulnerability Analysis
 
-- [Brute Force – Educational exercise](https://github.com/virg736/brute-force-exercice)
-Demonstration of a brute-force attack on a fictitious password.
+---
 
+##  My GitHub Projects
+
+- [Brute Force – Educational Exercise](https://github.com/virg736/brute-force-exercice)
+Learn how brute-force attacks work through a simple simulation.
+
+---
+
+##  Contact
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ton-profil/) or [GitHub](https://github.com/virg736).
