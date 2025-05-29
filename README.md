@@ -7,7 +7,7 @@ title: Virginie | Cybersecurity Portfolio
 
 <img src="/Pentester.PNG" alt="Virginie Lechene - Pentester" style="width:100%; height:auto; display:block; margin: 0 auto;" />
 
-
+<h2 id="home">Accueil</h2>
 # Virginie Lechene
 
 Welcome to my portfolio focused on offensive and defensive cybersecurity.
@@ -19,6 +19,7 @@ Pentesting · Offensive security · GDPR awareness · Vulnerability analysis
 ---
 
 <h2 id="projects">My GitHub Projects</h2>
+## projets
 
 - [Brute Force – Educational exercise](https://github.com/virg736/brute-force-exercice)
 Demonstration of a brute-force attack on a fictitious password.
