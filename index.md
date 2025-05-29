@@ -23,6 +23,10 @@ Welcome to my portfolio focused on offensive and defensive cybersecurity.
 - [Brute Force – Educational Exercise](https://github.com/virg736/brute-force-exercice)
 Learn how brute-force attacks work through a simple simulation.
 
+
+
+
+
 ---
 
 ##  Contact
