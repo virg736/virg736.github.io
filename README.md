@@ -37,9 +37,8 @@ Vulnerability scanning with OpenVAS.
 
 ---
 
-<a id="projects"></a>
-## My GitHub Projects
-GitHub: [https://github.com/virg736](https://github.com/virg736)
+## <a id="projects">My GitHub Projects</a>
+
 
 ...
 
