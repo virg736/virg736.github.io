@@ -18,8 +18,7 @@ Pentesting · Offensive security · GDPR awareness · Vulnerability analysis
 
 ---
 
-<a id="projects"></a>
-## My GitHub Projects
+<h2 id="projects">My GitHub Projects</h2>
 
 - [Brute Force – Educational exercise](https://github.com/virg736/brute-force-exercice)
 Demonstration of a brute-force attack on a fictitious password.
