@@ -43,10 +43,10 @@ Vulnerability scanning with OpenVAS.
 ## Contact
 
 <section id="contact" style="margin-top: 50px;">
-<h2>📬 Contact</h2>
-<p>📫 Me contacter : <strong>virginielechene [at] proton [dot] me</strong></p>
+
 <p>💻 GitHub : <a href="https://github.com/virg736" target="_blank">github.com/virg736</a></p>
 <p>🔗 LinkedIn : <a href="https://www.linkedin.com/in/ton-url" target="_blank">linkedin.com/in/ton-url</a></p>
 </section>
 
 ---
+
