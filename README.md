@@ -42,10 +42,11 @@ Vulnerability scanning with OpenVAS.
 <h2 id="contact">Contact</h2>
 ## Contact
 
-Email: 📫 Me contacter : [virginielechene [at] proton [dot] me](mailto:virginielechene@proton.me)
-GitHub: [https://github.com/virg736](https://github.com/virg736)
+<section id="contact" style="margin-top: 50px;">
+<h2>📬 Contact</h2>
+<p>📫 Me contacter : <strong>virginielechene [at] proton [dot] me</strong></p>
+<p>💻 GitHub : <a href="https://github.com/virg736" target="_blank">github.com/virg736</a></p>
+<p>🔗 LinkedIn : <a href="https://www.linkedin.com/in/ton-url" target="_blank">linkedin.com/in/ton-url</a></p>
+</section>
 
 ---
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virginie-lechene-fr)
-
