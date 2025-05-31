@@ -42,6 +42,7 @@ Vulnerability scanning with OpenVAS.
 <h2 id="contact">Contact</h2>
 ## Contact
 
+
 <section id="contact" style="margin-top: 50px;">
 
 <p>💻 GitHub : <a href="https://github.com/virg736" target="_blank">github.com/virg736</a></p>
