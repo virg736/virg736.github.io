@@ -6,10 +6,15 @@ title: Virginie Lechene | Cybersecurity Portfolio
 
 <img src="/Pentester.PNG" alt="Virginie Lechene - Pentester" style="width:100%; height:auto; display:block; margin: 0 auto;" />
 
-
 #  Virginie Lechene
 
-Welcome to my portfolio focused on offensive and defensive cybersecurity.
+### À propos de moi
+
+Formée en cybersécurité offensive et défensive.
+Spécialisée en **pentest**, **audits RGPD** et **sensibilisation à la sécurité**.
+
+Je développe des environnements d’audit et de tests pratiques pour **apprendre**, **partager** et **former**.
+
 
 - 🔍 Penetration Testing
 - 🔐 Offensive Security
@@ -18,7 +23,10 @@ Welcome to my portfolio focused on offensive and defensive cybersecurity.
 
 ---
 
-##  My GitHub Projects
+#  Bienvenue sur mes projets GitHub
+
+Voici une sélection de mes travaux en cybersécurité, pentesting et réseaux.
+
 
 - [Brute Force – Educational Exercise](https://github.com/virg736/brute-force-exercice)
 Learn how brute-force attacks work through a simple simulation.
@@ -38,10 +46,8 @@ Vulnerability scanning with OpenVAS.
 -  [Safefox (Firefox + Firejail + VPN)](https://github.com/virg736/safefox-vpn-firejail)
 Conteneur sécurisé pour Firefox permettant l’audit de sites suspects sans exposer ton système.
 
-
-
 ---
 
 ##  Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ton-profil/) or [GitHub](https://github.com/virg736).
+📫 Me contacter sur [LinkedIn](https://linkedin.com/in/virginie-lechene.fr) ou [GitHub](https://github.com/virg736)
