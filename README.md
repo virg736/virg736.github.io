@@ -10,8 +10,13 @@ title: Virginie | Cybersecurity Portfolio
 <h2 id="home">Accueil</h2>
 # Virginie Lechene
 
-Welcome to my portfolio focused on offensive and defensive cybersecurity.
-Pentesting · Offensive security · GDPR awareness · Vulnerability analysis
+### À propos de moi
+
+Formée en cybersécurité offensive et défensive.
+Spécialisée en **pentest**, **audits RGPD** et **sensibilisation à la sécurité**.
+
+Je développe des environnements d’audit et de tests pratiques pour **apprendre**, **partager** et **former**.
+
 
 [![Mon Portfolio Cybersécurité](https://img.shields.io/badge/MON%20PORTFOLIO%20CYBERS%C3%89CURIT%C3%89-CLIQUEZ%20ICI-blue)](https://virg736.github.io)
 
@@ -49,7 +54,7 @@ Conteneur sécurisé pour Firefox permettant l’audit de sites suspects sans ex
 <section id="contact" style="margin-top: 50px;">
 
 <p>💻 GitHub : <a href="https://github.com/virg736" target="_blank">github.com/virg736</a></p>
-<p>🔗 LinkedIn : <a href="https://www.linkedin.com/in/ton-url" target="_blank">linkedin.com/in/ton-url</a></p>
+<p>🔗 LinkedIn : <a href="https://www.linkedin.com/in/ton-url" target="_blank">linkedin.com/in/virginie-lechene.fr</a></p>
 </section>
 
 ---
