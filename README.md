@@ -36,7 +36,8 @@ Secure proxy setup with Burp on Kali Linux.
 - [OpenVAS Network Scan](https://github.com/virg736/Openvas)
 Vulnerability scanning with OpenVAS.
 
-- [Voir le projet](https://github.com/virg736/safefox-vpn-firejail)
+-  [Safefox (Firefox + Firejail + VPN)](https://github.com/virg736/safefox-vpn-firejail)
+Conteneur sécurisé pour Firefox permettant l’audit de sites suspects sans exposer ton système.
 
 ---
 
