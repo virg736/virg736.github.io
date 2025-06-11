@@ -8,7 +8,7 @@ title: Virginie Lechene | Cybersecurity Portfolio
 
 #  Virginie Lechene
 
-### À propos de moi
+## Accueil
 
 <div align="center">
 <p><strong>Trained in offensive and defensive cybersecurity.</strong><br>
@@ -19,7 +19,7 @@ title: Virginie Lechene | Cybersecurity Portfolio
 
 ---
 
-#  Bienvenue sur mes projets GitHub
+## Projets 
 
 
 
@@ -29,7 +29,7 @@ title: Virginie Lechene | Cybersecurity Portfolio
 
 <p align="center">
 <strong><a href="https://github.com/virg736/safefox-vpn-firejail" target="_blank">SafeFox VPN Firejail</a></strong><br>
-A secure browser powered by Firejail and VPN, designed for web analysis, intrusion testing and cybersecurity training.
+A secure browser powered by Firejail and VPN, designed for web analysis penetration testing, and cybersecurity training.
 </p>
 
 
@@ -82,7 +82,7 @@ Understand how phishing attacks work and learn how to protect yourself using rea
 </a>
 <p>
 <strong><a href="https://github.com/virg736/burp-kali-proxy" target="_blank">Burp Proxy on Kali</a></strong><br>
-Set up a secure proxy setup and perform traffic analysis with Burp Suite on Kali Linux.
+Set up a secure proxy and perform traffic analysis with Burp Suite on Kali Linux.
 </p>
 </div>
 
