@@ -107,7 +107,6 @@ Set up a secure proxy and perform traffic analysis with Burp Suite on Kali Linux
 <p>📫 Contact me via <a href="https://www.linkedin.com/in/ton-lien" target="_blank">LinkedIn</a> or <a href="https://github.com/virg736" target="_blank">GitHub</a>.</p>
 </section>
 
-<p style="opacity: 0.7; transition: opacity 0.3s;">
-<strong>🔒 Secure-by-default:</strong> HTTPS, safe linking, and no sensitive data exposed.
-</p>
-
+<footer style="text-align: center; margin-top: 40px; color: #aaa;">
+<p><strong>🔒 Secure-by-default:</strong> HTTPS, safe linking, and no sensitive data exposed.</p>
+</footer>
