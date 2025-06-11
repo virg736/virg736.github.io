@@ -81,6 +81,18 @@ Vulnerability scanning with OpenVAS on Kali Linux.
 </div>
 
 
+<div align="center">
+<a href="https://github.com/virg736/phishing" target="_blank">
+<img src="https://raw.githubusercontent.com/virg736/phishing/main/phisting1.PNG" alt="Phishing Project" width="300">
+</a>
+<p>
+<strong><a href="https://github.com/virg736/phishing" target="_blank">Phishing – Educational Simulation</a></strong><br>
+Learn how phishing works and how to protect yourself using simulation and script analysis.
+</p>
+</div>
+
+
+
 
 - [Burp Proxy on Kali](https://github.com/virg736/burp-kali-proxy)
 Secure proxy setup with Burp on Kali Linux.
