@@ -49,8 +49,18 @@ Learn how brute-force attacks work through a simple simulation.
 </div>
 
 
-- [Enumeration Pentest](https://github.com/virg736/enumeration-pentest)
+<div align="center">
+<a href="https://github.com/virg736/enumeration-pentest" target="_blank">
+<img src="https://raw.githubusercontent.com/virg736/enumeration-pentest/main/nmap.jpg" alt="Enumeration Pentest" width="300">
+</a>
+<p>
+<strong><a href="https://github.com/virg736/enumeration-pentest" target="_blank">Enumeration Pentest</a></strong><br>
 Enumeration methodology in a network audit context.
+</p>
+</div>
+
+
+
 
 - [The Man-in-the-Middle](https://github.com/virg736/The-Man-in-the-Middle)
 Interception audit with Burp Suite, Fiddler, MITMProxy.
