@@ -19,30 +19,34 @@ title: Virginie Lechene | Cybersecurity Portfolio
 <strong>Developer of cybersecurity tools and scripts.</strong></p>
 </div>
 
-
-
-<!-- PROJECTS -->
-<section id="projects">
-<h2>My Projects</h2>
-
 <!-- Exemples de projets -->
 <!-- Garde ici tout ton code d’images + titres + liens que tu as déjà mis -->
 </section>
 
 <div align="center">
-<a href="https://github.com/virg736/safefox-vpn-firejail" target="_blank">
+<a href="https://github.com/virg736/safefox-vpn-firejail" target="_blank" rel="noopener noreferrer">
 <img src="https://raw.githubusercontent.com/virg736/safefox-vpn-firejail/main/Firejail.jpg" alt="Firejail Project" width="300">
 </a>
 <p>
 <strong>
-<a href="https://github.com/virg736/safefox-vpn-firejail" target="_blank">
-Safefox VPN - Firejail
+<a href="https://github.com/virg736/safefox-vpn-firejail" target="_blank" rel="noopener noreferrer">
+Safefox VPN – Firejail
 </a>
 </strong><br>
 Sandbox Firefox with Firejail to enhance security and isolation.
 </p>
 </div>
 
+<!-- Footer sécurisé -->
+<p style="text-align: center; opacity: 0.7; margin-top: 40px;">
+<strong>🔒 Secure-by-default:</strong> HTTPS, safe linking, and no sensitive data exposed.
+</p>
+
+<p style="text-align: center; font-size: 0.9em;">
+<a href="https://github.com/virg736/virg736.github.io/blob/main/SECURITY.md" target="_blank" rel="noopener noreferrer">
+🔐 View my security policy
+</a>
+</p>
 
 
 <div align="center">
