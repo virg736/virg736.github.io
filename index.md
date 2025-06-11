@@ -29,7 +29,19 @@ title: Virginie Lechene | Cybersecurity Portfolio
 <!-- Garde ici tout ton code d’images + titres + liens que tu as déjà mis -->
 </section>
 
-
+<div align="center">
+<a href="https://github.com/virg736/safefox-vpn-firejail" target="_blank">
+<img src="https://raw.githubusercontent.com/virg736/safefox-vpn-firejail/main/Firejail.jpg" alt="Firejail Project" width="300">
+</a>
+<p>
+<strong>
+<a href="https://github.com/virg736/safefox-vpn-firejail" target="_blank">
+Safefox VPN - Firejail
+</a>
+</strong><br>
+Sandbox Firefox using Firejail for improved security and isolation.
+</p>
+</div>
 
 
 
