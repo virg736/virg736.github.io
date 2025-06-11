@@ -19,7 +19,6 @@ title: Virginie Lechene | Cybersecurity Portfolio
 <strong>Developer of cybersecurity tools and scripts.</strong></p>
 </div>
 
----
 
 
 <!-- PROJECTS -->
@@ -95,7 +94,7 @@ Set up a secure proxy and perform traffic analysis with Burp Suite on Kali Linux
 </div>
 
 
----
+
 
 <!-- CONTACT -->
 <section id="contact">
