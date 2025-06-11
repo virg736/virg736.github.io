@@ -86,15 +86,27 @@ Analyze network interception using Burp Suite, Fiddler and MITMProxy.
 </p>
 
 
-<div align="center">
-<a href="https://github.com/virg736/Openvas" target="_blank">
+<p align="center">
+<a href="https://github.com/virg736/Openvas" target="_blank" rel="noopener noreferrer">
 <img src="https://raw.githubusercontent.com/virg736/Openvas/main/OpenvasKaliLinux.PNG" alt="OpenVAS Kali Linux" width="300">
 </a>
-<p>
-<strong><a href="https://github.com/virg736/Openvas" target="_blank">OpenVAS Network Scan</a></strong><br>
+</p>
+
+
+<p align="center">
+<strong>
+<a href="https://github.com/virg736/Openvas" target="_blank" rel="noopener noreferrer">
+OpenVAS Network Scan
+</a>
+</strong><br>
 Vulnerability scanning with OpenVAS on Kali Linux.
 </p>
-</div>
+
+<p align="center">
+🔗 Project by
+<a href="https://github.com/virg736" target="_blank" rel="noopener noreferrer">GitHub</a>
+</p>
+
 
 
 <p align="center">
