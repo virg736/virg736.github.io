@@ -11,9 +11,6 @@ title: Virginie Lechene | Cybersecurity Portfolio
 
 <!-- HOME -->
 <section id="home">
-<h1>Virginie Lechene</h1>
-<p>Trained in offensive and defensive cybersecurity...<br>Developer of cybersecurity tools and scripts.</p>
-</section>
 
 <div align="center">
 <p><strong>Trained in offensive and defensive cybersecurity.</strong><br>
