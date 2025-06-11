@@ -29,14 +29,13 @@ Voici une sélection de mes travaux en cybersécurité, pentesting et réseaux.
 
 
 <div align="center">
-<a href="https://github.com/virg736/brute-force-exercice" target="_blank">
-<img src="https://raw.githubusercontent.com/virg736/brute-force-exercice/main/Brute%20Force.PNG" alt="Brute Force Exercise" width="300">
-</a>
-<p>
-<strong><a href="https://github.com/virg736/brute-force-exercice" target="_blank">Brute Force – Educational Exercise</a></strong><br>
-Understand how brute-force attacks work through a simple simulation.
-</p>
+<img src="https://github.com/virg736/safefox-vpn-firejail/blob/main/Firejail.jpg?raw=true" width="300px" alt="SafeFox VPN Firejail">
 </div>
+
+<p align="center">
+<strong><a href="https://github.com/virg736/safefox-vpn-firejail" target="_blank">SafeFox VPN Firejail</a></strong><br>
+A secure browser using Firejail and VPN, designed for web analysis, intrusion testing and cybersecurity training.
+</p>
 
 
 <div align="center">
