@@ -70,16 +70,22 @@ Interception audit with Burp Suite, Fiddler, MITMProxy.
 </p>
 </div>
 
+<div align="center">
+<a href="https://github.com/virg736/Openvas" target="_blank">
+<img src="https://raw.githubusercontent.com/virg736/Openvas/main/OpenvasKaliLinux.PNG" alt="OpenVAS Kali Linux" width="300">
+</a>
+<p>
+<strong><a href="https://github.com/virg736/Openvas" target="_blank">OpenVAS Network Scan</a></strong><br>
+Vulnerability scanning with OpenVAS on Kali Linux.
+</p>
+</div>
+
 
 
 - [Burp Proxy on Kali](https://github.com/virg736/burp-kali-proxy)
 Secure proxy setup with Burp on Kali Linux.
 
-- [OpenVAS Network Scan](https://github.com/virg736/Openvas)
-Vulnerability scanning with OpenVAS.
 
--  [Safefox (Firefox + Firejail + VPN)](https://github.com/virg736/safefox-vpn-firejail)
-Conteneur sécurisé pour Firefox permettant l’audit de sites suspects sans exposer ton système.
 
 ---
 
