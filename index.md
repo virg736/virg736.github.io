@@ -39,7 +39,7 @@ title: Virginie Lechene | Cybersecurity Portfolio
 Safefox VPN - Firejail
 </a>
 </strong><br>
-Sandbox Firefox using Firejail for improved security and isolation.
+Sandbox Firefox with Firejail to enhance security and isolation.
 </p>
 </div>
 
