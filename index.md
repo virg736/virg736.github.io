@@ -92,10 +92,15 @@ Learn how phishing works and how to protect yourself using simulation and script
 </div>
 
 
-
-
-- [Burp Proxy on Kali](https://github.com/virg736/burp-kali-proxy)
-Secure proxy setup with Burp on Kali Linux.
+<div align="center">
+<a href="https://github.com/virg736/burp-kali-proxy" target="_blank">
+<img src="https://raw.githubusercontent.com/virg736/burp-kali-proxy/main/Burp%20Suite.PNG" alt="Burp Proxy on Kali" width="300">
+</a>
+<p>
+<strong><a href="https://github.com/virg736/burp-kali-proxy" target="_blank">Burp Proxy on Kali</a></strong><br>
+Secure proxy setup and traffic analysis using Burp Suite on Kali Linux.
+</p>
+</div>
 
 
 
