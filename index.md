@@ -129,11 +129,12 @@ Set up a secure proxy and perform traffic analysis with Burp Suite on Kali Linux
 </p>
 
 
-
-<!-- CONTACT -->
-<section id="contact">
+p align="center">
+📬 Contact me via
 <a href="https://www.linkedin.com/in/ton-lien" target="_blank" rel="noopener noreferrer">LinkedIn</a> or
-<a href="https://github.com/virg736" target="_blank" rel="noopener noreferrer">GitHub</a>
+<a href="https://github.com/virg736" target="_blank" rel="noopener noreferrer">GitHub</a>.
+</p>
+
 
 <!-- Footer sécurisé -->
 <p style="text-align: center; opacity: 0.7; margin-top: 40px;">
