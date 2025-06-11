@@ -7,7 +7,7 @@ title: Virginie Lechene | Cybersecurity Portfolio
 
 <img src="/Pentester.PNG" alt="Virginie Lechene - Pentester" style="width:100%; height:auto; display:block; margin: 0 auto;" />
 
-#  Virginie Lechene
+
 
 <!-- HOME -->
 <section id="home">
@@ -24,6 +24,7 @@ title: Virginie Lechene | Cybersecurity Portfolio
 
 ---
 
+
 <!-- PROJECTS -->
 <section id="projects">
 <h2>My Projects</h2>
@@ -31,7 +32,6 @@ title: Virginie Lechene | Cybersecurity Portfolio
 <!-- Exemples de projets -->
 <!-- Garde ici tout ton code d’images + titres + liens que tu as déjà mis -->
 </section>
-
 
 
 <div align="center">
@@ -98,7 +98,6 @@ Set up a secure proxy and perform traffic analysis with Burp Suite on Kali Linux
 </div>
 
 
-
 ---
 
 <!-- CONTACT -->
@@ -108,4 +107,4 @@ Set up a secure proxy and perform traffic analysis with Burp Suite on Kali Linux
 </section>
 
 
-📫 Me contacter sur [LinkedIn](https://linkedin.com/in/virginie-lechene.fr) ou [GitHub](https://github.com/virg736)
+
