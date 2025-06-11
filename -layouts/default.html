@@ -19,9 +19,11 @@
 </main>
 
 <script>
-document.addEventListener("contextmenu", function(e) {
+document.addEventListener("DOMContentLoaded", function () {
+document.addEventListener("contextmenu", function (e) {
 e.preventDefault();
 alert("⚠️ Clic droit désactivé pour protéger les images.");
+});
 });
 </script>
 
