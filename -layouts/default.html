@@ -17,19 +17,14 @@
 <main>
 {{ content }}
 </main>
-
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const images = document.querySelectorAll("img");
-    images.forEach(function (img) {
-      img.addEventListener("contextmenu", function (e) {
-        e.preventDefault();
-        alert("⚠️ Clic droit désactivé sur cette image.");
-      });
-    });
+  document.addEventListener("contextmenu", function(e) {
+    if (e.target.nodeName === "IMG") {
+      e.preventDefault();
+      alert("⚠️ Clic droit désactivé sur cette image.");
+    }
   });
 </script>
 
- 
 </body>
 </html>
