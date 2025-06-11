@@ -60,10 +60,17 @@ Enumeration methodology in a network audit context.
 </div>
 
 
-
-
-- [The Man-in-the-Middle](https://github.com/virg736/The-Man-in-the-Middle)
+<div align="center">
+<a href="https://github.com/virg736/The-Man-in-the-Middle" target="_blank">
+<img src="https://raw.githubusercontent.com/virg736/The-Man-in-the-Middle/main/The%20Man%20in%20the%20Middle.PNG" alt="The Man in the Middle" width="300">
+</a>
+<p>
+<strong><a href="https://github.com/virg736/The-Man-in-the-Middle" target="_blank">The Man in the Middle</a></strong><br>
 Interception audit with Burp Suite, Fiddler, MITMProxy.
+</p>
+</div>
+
+
 
 - [Burp Proxy on Kali](https://github.com/virg736/burp-kali-proxy)
 Secure proxy setup with Burp on Kali Linux.
