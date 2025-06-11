@@ -25,7 +25,6 @@ Je développe des environnements d’audit et de tests pratiques pour **apprendr
 
 #  Bienvenue sur mes projets GitHub
 
-Voici une sélection de mes travaux en cybersécurité, pentesting et réseaux.
 
 
 <div align="center">
@@ -34,7 +33,7 @@ Voici une sélection de mes travaux en cybersécurité, pentesting et réseaux.
 
 <p align="center">
 <strong><a href="https://github.com/virg736/safefox-vpn-firejail" target="_blank">SafeFox VPN Firejail</a></strong><br>
-A secure browser using Firejail and VPN, designed for web analysis, intrusion testing and cybersecurity training.
+A secure browser powered by Firejail and VPN, designed for web analysis, intrusion testing and cybersecurity training.
 </p>
 
 
