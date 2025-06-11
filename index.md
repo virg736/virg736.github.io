@@ -44,7 +44,7 @@ Voici une sélection de mes travaux en cybersécurité, pentesting et réseaux.
 </a>
 <p>
 <strong><a href="https://github.com/virg736/brute-force-exercice" target="_blank">Brute Force – Educational Exercise</a></strong><br>
-Learn how brute-force attacks work through a simple simulation.
+Understand how brute-force attacks work through a simple simulation.
 </p>
 </div>
 
@@ -55,7 +55,7 @@ Learn how brute-force attacks work through a simple simulation.
 </a>
 <p>
 <strong><a href="https://github.com/virg736/enumeration-pentest" target="_blank">Enumeration Pentest</a></strong><br>
-Enumeration methodology in a network audit context.
+Understand enumeration methodology in a network audit context.
 </p>
 </div>
 
@@ -66,7 +66,7 @@ Enumeration methodology in a network audit context.
 </a>
 <p>
 <strong><a href="https://github.com/virg736/The-Man-in-the-Middle" target="_blank">The Man in the Middle</a></strong><br>
-Interception audit with Burp Suite, Fiddler, MITMProxy.
+Analyze network Interception using Burp Suite, Fiddler and MITMProxy.
 </p>
 </div>
 
