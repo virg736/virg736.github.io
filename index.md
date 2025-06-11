@@ -86,15 +86,26 @@ Vulnerability scanning with OpenVAS on Kali Linux.
 </div>
 
 
-<div align="center">
-<a href="https://github.com/virg736/phishing" target="_blank">
-<img src="https://raw.githubusercontent.com/virg736/phishing/main/phisting1.PNG" alt="Phishing Project" width="300">
+<p align="center">
+<a href="https://github.com/virg736/The-Man-in-the-Middle" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/virg736/The-Man-in-the-Middle/main/The%20Man%20in%20the%20Middle.PNG" alt="The Man in the Middle" width="300">
 </a>
-<p>
-<strong><a href="https://github.com/virg736/phishing" target="_blank">Phishing – Educational Simulation</a></strong><br>
-Understand how phishing attacks work and learn how to protect yourself using realistic simulations and script-based  analysis.
 </p>
-</div>
+
+
+<p align="center">
+<strong>
+<a href="https://github.com/virg736/The-Man-in-the-Middle" target="_blank" rel="noopener noreferrer">
+The Man in the Middle
+</a>
+</strong><br>
+Analyze network interception using Burp Suite, Fiddler and MITMProxy.
+</p>
+
+<p align="center">
+🔗 Project by
+<a href="https://github.com/virg736" target="_blank" rel="noopener noreferrer">GitHub</a>
+</p>
 
 
 <div align="center">
