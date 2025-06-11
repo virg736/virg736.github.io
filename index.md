@@ -29,15 +29,28 @@ title: Virginie Lechene | Cybersecurity Portfolio
 <!-- Garde ici tout ton code d’images + titres + liens que tu as déjà mis -->
 </section>
 
+# Mon projet Firejail
 
-<div align="center">
-<img src="https://github.com/virg736/safefox-vpn-firejail/blob/main/Firejail.jpg?raw=true" width="300px" alt="SafeFox VPN Firejail">
-</div>
+Voici une illustration de mon outil :
 
-<p align="center">
-<strong><a href="https://github.com/virg736/safefox-vpn-firejail" target="_blank">SafeFox VPN Firejail</a></strong><br>
-A secure browser powered by Firejail and VPN, designed for web analysis penetration testing, and cybersecurity training.
-</p>
+![Illustration de Firejail](Firejail.jpg)
+
+---
+
+<script>
+  window.onload = function () {
+    const imgs = document.querySelectorAll("img");
+    imgs.forEach(function (img) {
+      img.addEventListener("contextmenu", function (e) {
+        e.preventDefault();
+        alert("⚠️ Clic droit désactivé pour protéger cette image.");
+      });
+      img.addEventListener("dragstart", function (e) {
+        e.preventDefault();
+      });
+    });
+  };
+</script>
 
 
 <div align="center">
