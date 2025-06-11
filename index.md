@@ -3,12 +3,34 @@ layout: default
 title: Virginie Lechene | Cybersecurity Portfolio
 ---
 
+<!-- HOME -->
+<section id="home">
+<h1>Virginie Lechene</h1>
+<p>Trained in offensive and defensive cybersecurity...<br>Developer of cybersecurity tools and scripts.</p>
+</section>
+
+<!-- PROJECTS -->
+<section id="projects">
+<h2>My Projects</h2>
+
+<!-- Exemples de projets -->
+<!-- Garde ici tout ton code d’images + titres + liens que tu as déjà mis -->
+</section>
+
+<!-- CONTACT -->
+<section id="contact">
+<h2>Contact</h2>
+<p>📫 Contact me via <a href="https://www.linkedin.com/in/ton-lien" target="_blank">LinkedIn</a> or <a href="https://github.com/virg736" target="_blank">GitHub</a>.</p>
+</section>
+
+
+
 
 <img src="/Pentester.PNG" alt="Virginie Lechene - Pentester" style="width:100%; height:auto; display:block; margin: 0 auto;" />
 
 #  Virginie Lechene
 
-## Accueil
+## Home
 
 <div align="center">
 <p><strong>Trained in offensive and defensive cybersecurity.</strong><br>
@@ -19,7 +41,7 @@ title: Virginie Lechene | Cybersecurity Portfolio
 
 ---
 
-## Projets 
+## Projects 
 
 
 
