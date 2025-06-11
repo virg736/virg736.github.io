@@ -44,15 +44,25 @@ Sandbox Firefox with Firejail to enhance security and isolation.
 </p>
 
 
-<div align="center">
-<a href="https://github.com/virg736/enumeration-pentest" target="_blank">
+<p align="center">
+<a href="https://github.com/virg736/enumeration-pentest" target="_blank" rel="noopener noreferrer">
 <img src="https://raw.githubusercontent.com/virg736/enumeration-pentest/main/nmap.jpg" alt="Enumeration Pentest" width="300">
 </a>
-<p>
-<strong><a href="https://github.com/virg736/enumeration-pentest" target="_blank">Enumeration Pentest</a></strong><br>
+</p>
+
+<p align="center">
+<strong>
+<a href="https://github.com/virg736/enumeration-pentest" target="_blank" rel="noopener noreferrer">
+Enumeration Pentest
+</a>
+</strong><br>
 Understand enumeration methodology in a network audit context.
 </p>
-</div>
+
+<p align="center">
+🔗 Project by
+<a href="https://github.com/virg736" target="_blank" rel="noopener noreferrer">GitHub</a>
+</p>
 
 
 <div align="center">
