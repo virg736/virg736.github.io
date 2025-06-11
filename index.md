@@ -108,39 +108,25 @@ Vulnerability scanning with OpenVAS on Kali Linux.
 </p>
 
 
-
 <p align="center">
-<a href="https://github.com/virg736/The-Man-in-the-Middle" target="_blank" rel="noopener noreferrer">
-<img src="https://raw.githubusercontent.com/virg736/The-Man-in-the-Middle/main/The%20Man%20in%20the%20Middle.PNG" alt="The Man in the Middle" width="300">
+<a href="https://github.com/virg736/burp-kali-proxy" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/virg736/burp-kali-proxy/main/Burp%20Suite.PNG" alt="Burp Proxy on Kali" width="300">
 </a>
 </p>
 
-
 <p align="center">
 <strong>
-<a href="https://github.com/virg736/The-Man-in-the-Middle" target="_blank" rel="noopener noreferrer">
-The Man in the Middle
+<a href="https://github.com/virg736/burp-kali-proxy" target="_blank" rel="noopener noreferrer">
+Burp Proxy on Kali
 </a>
 </strong><br>
-Analyze network interception using Burp Suite, Fiddler and MITMProxy.
+Set up a secure proxy and perform traffic analysis with Burp Suite on Kali Linux.
 </p>
 
 <p align="center">
 🔗 Project by
 <a href="https://github.com/virg736" target="_blank" rel="noopener noreferrer">GitHub</a>
 </p>
-
-
-<div align="center">
-<a href="https://github.com/virg736/burp-kali-proxy" target="_blank">
-<img src="https://raw.githubusercontent.com/virg736/burp-kali-proxy/main/Burp%20Suite.PNG" alt="Burp Proxy on Kali" width="300">
-</a>
-<p>
-<strong><a href="https://github.com/virg736/burp-kali-proxy" target="_blank">Burp Proxy on Kali</a></strong><br>
-Set up a secure proxy and perform traffic analysis with Burp Suite on Kali Linux.
-</p>
-</div>
-
 
 
 
