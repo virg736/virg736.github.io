@@ -29,28 +29,8 @@ title: Virginie Lechene | Cybersecurity Portfolio
 <!-- Garde ici tout ton code d’images + titres + liens que tu as déjà mis -->
 </section>
 
-# Mon projet Firejail
 
-Voici une illustration de mon outil :
 
-![Illustration de Firejail](Firejail.jpg)
-
----
-
-<script>
-  window.onload = function () {
-    const imgs = document.querySelectorAll("img");
-    imgs.forEach(function (img) {
-      img.addEventListener("contextmenu", function (e) {
-        e.preventDefault();
-        alert("⚠️ Clic droit désactivé pour protéger cette image.");
-      });
-      img.addEventListener("dragstart", function (e) {
-        e.preventDefault();
-      });
-    });
-  };
-</script>
 
 
 <div align="center">
