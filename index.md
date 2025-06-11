@@ -38,6 +38,10 @@ Voici une sélection de mes travaux en cybersécurité, pentesting et réseaux.
 </p>
 
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/virg736/brute-force-exercice/main/Brute%20Force.PNG" alt="Brute Force Exercise" width="300">
+</p>
+
 - [Brute Force – Educational Exercise](https://github.com/virg736/brute-force-exercice)
 Learn how brute-force attacks work through a simple simulation.
 
