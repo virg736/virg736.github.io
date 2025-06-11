@@ -38,12 +38,16 @@ Voici une sélection de mes travaux en cybersécurité, pentesting et réseaux.
 </p>
 
 
-<p align="center">
+<div align="center">
+<a href="https://github.com/virg736/brute-force-exercice" target="_blank">
 <img src="https://raw.githubusercontent.com/virg736/brute-force-exercice/main/Brute%20Force.PNG" alt="Brute Force Exercise" width="300">
-</p>
-
-- [Brute Force – Educational Exercise](https://github.com/virg736/brute-force-exercice)
+</a>
+<p>
+<strong><a href="https://github.com/virg736/brute-force-exercice" target="_blank">Brute Force – Educational Exercise</a></strong><br>
 Learn how brute-force attacks work through a simple simulation.
+</p>
+</div>
+
 
 - [Enumeration Pentest](https://github.com/virg736/enumeration-pentest)
 Enumeration methodology in a network audit context.
