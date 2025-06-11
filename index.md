@@ -65,15 +65,26 @@ Understand enumeration methodology in a network audit context.
 </p>
 
 
-<div align="center">
-<a href="https://github.com/virg736/The-Man-in-the-Middle" target="_blank">
+<p align="center">
+<a href="https://github.com/virg736/The-Man-in-the-Middle" target="_blank" rel="noopener noreferrer">
 <img src="https://raw.githubusercontent.com/virg736/The-Man-in-the-Middle/main/The%20Man%20in%20the%20Middle.PNG" alt="The Man in the Middle" width="300">
 </a>
-<p>
-<strong><a href="https://github.com/virg736/The-Man-in-the-Middle" target="_blank">The Man in the Middle</a></strong><br>
-Analyze network Interception using Burp Suite, Fiddler and MITMProxy.
 </p>
-</div>
+
+<p align="center">
+<strong>
+<a href="https://github.com/virg736/The-Man-in-the-Middle" target="_blank" rel="noopener noreferrer">
+The Man in the Middle
+</a>
+</strong><br>
+Analyze network interception using Burp Suite, Fiddler and MITMProxy.
+</p>
+
+<p align="center">
+🔗 Project by
+<a href="https://github.com/virg736" target="_blank" rel="noopener noreferrer">GitHub</a>
+</p>
+
 
 <div align="center">
 <a href="https://github.com/virg736/Openvas" target="_blank">
