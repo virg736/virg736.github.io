@@ -10,16 +10,12 @@ title: Virginie Lechene | Cybersecurity Portfolio
 
 ### À propos de moi
 
-Formée en cybersécurité offensive et défensive.
-Spécialisée en **pentest**, **audits RGPD** et **sensibilisation à la sécurité**.
-
-Je développe des environnements d’audit et de tests pratiques pour **apprendre**, **partager** et **former**.
-
-
-- 🔍 Penetration Testing
-- 🔐 Offensive Security
-- 🛡️ GDPR awareness
-- 🧠 Vulnerability Analysis
+<div align="center">
+<p><strong>Trained in offensive and defensive cybersecurity.</strong><br>
+<strong>Specialized in penetration testing, GDPR audits, and security awareness.</strong><br>
+<strong>Creator of educational projects in cybersecurity.</strong><br>
+<strong>Developer of cybersecurity tools and scripts.</strong></p>
+</div>
 
 ---
 
