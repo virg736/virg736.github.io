@@ -87,7 +87,7 @@ Vulnerability scanning with OpenVAS on Kali Linux.
 </a>
 <p>
 <strong><a href="https://github.com/virg736/phishing" target="_blank">Phishing – Educational Simulation</a></strong><br>
-Learn how phishing works and how to protect yourself using simulation and script analysis.
+Understand how phishing attacks work and learn how to protect yourself using realistic simulations and script-based  analysis.
 </p>
 </div>
 
