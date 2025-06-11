@@ -72,3 +72,14 @@ scroll-margin-top: 80px;
 #home {
 scroll-margin-top: 80px;
 }
+
+.navbar ul {
+list-style: none;
+padding-left: 0;
+margin: 0;
+}
+
+.navbar li {
+display: inline;
+margin-right: 20px;
+}
