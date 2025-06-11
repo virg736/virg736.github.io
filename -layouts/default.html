@@ -17,14 +17,30 @@
 <main>
 {{ content }}
 </main>
+
+  </main>
+
 <script>
-  document.addEventListener("contextmenu", function(e) {
-    if (e.target.nodeName === "IMG") {
-      e.preventDefault();
-      alert("⚠️ Clic droit désactivé sur cette image.");
-    }
+  document.addEventListener("DOMContentLoaded", function () {
+    const imgs = document.querySelectorAll("img");
+    imgs.forEach(function (img) {
+      img.addEventListener("contextmenu", function (e) {
+        e.preventDefault();
+        alert("⚠️ Clic droit désactivé pour protéger cette image.");
+      });
+    });
+
+    document.addEventListener("dragstart", function(e) {
+      if (e.target.nodeName === "IMG") {
+        e.preventDefault();
+      }
+    });
   });
 </script>
+
+</body>
+</html>
+
 
 </body>
 </html>
