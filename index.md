@@ -20,10 +20,10 @@ title: Virginie Lechene | Cybersecurity Portfolio
 <section id="home">
 
 <div align="center">
-<p><strong>Trained in offensive and defensive cybersecurity.</strong><br>
-<strong>Specialized in penetration testing, GDPR audits, and security awareness.</strong><br>
-<strong>Creator of educational projects in cybersecurity.</strong><br>
-<strong>Developer of cybersecurity tools and scripts.</strong></p>
+<p><strong>Trained in both offensive and defensive cybersecurity.</strong><br>
+<strong>Specialized in penetration testing, GDPR compliance audits, and security awareness.</strong><br>
+<strong>Creator of educational cybersecurity projects.</strong><br>
+<strong>Developer of cybersecurity tools and custom scripts.</strong></p>
 </div>
 
 <!-- Exemples de projets -->
@@ -42,7 +42,7 @@ title: Virginie Lechene | Cybersecurity Portfolio
 Safefox VPN – Firejail
 </a>
 </strong><br>
-Sandbox Firefox with Firejail to enhance security and isolation.
+Run Firefox in a Firejail sandbos to improve security and process isolation.
 </p>
 
 <p align="center">
