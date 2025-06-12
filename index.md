@@ -133,6 +133,28 @@ Set up a secure proxy and perform traffic analysis with Burp Suite on Kali Linux
 🔗 Project by
 
 
+<p align="center">
+<a href="https://github.com/virg736/phishing" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/virg736/phishing/main/phisting1.PNG" alt="Phishing Simulation" width="300">
+</a>
+</p>
+
+<p align="center">
+<strong>
+<a href="https://github.com/virg736/phishing" target="_blank" rel="noopener noreferrer">
+Phishing Simulation
+</a>
+</strong><br>
+Visual example of a phishing attack used for cybersecurity awareness and training.
+</p>
+
+<p align="center">
+🔗 Project on
+<a href="https://github.com/virg736" target="_blank" rel="noopener noreferrer">GitHub</a>
+</p>
+
+
+
 
 
 
