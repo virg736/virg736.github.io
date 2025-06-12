@@ -154,7 +154,9 @@ A phishing attack simulation to raise awareness and provide cybersecurity traini
 </p>
 
 
+<a href="/SECURITY.md">View my security policy</a>
 
+<p align="center"><small>All images used are for educational purposes only. Copyright belongs to their respective owners.</small></p>
 
 
 
