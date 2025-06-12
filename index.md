@@ -130,7 +130,9 @@ Burp Proxy on Kali
 Set up a secure proxy and perform traffic analysis with Burp Suite on Kali Linux.
 </p>
 <p align="center">
-🔗 Project by
+🔗 Project on
+<a href="https://github.com/virg736" target="_blank" rel="noopener noreferrer">GitHub</a>
+</p>
 
 
 <p align="center">
