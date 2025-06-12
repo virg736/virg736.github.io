@@ -18,6 +18,14 @@
 
 <title>{{ page.title }}</title>
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+<!-- 🔒 Anti-clickjacking : empêche l’affichage en iframe -->
+<script>
+if (window.top !== window.self) {
+document.body.innerHTML = "<h1>Ce site ne peut pas être affiché dans une iframe.</h1>";
+}
+</script>
 </head>
 
 <body>
