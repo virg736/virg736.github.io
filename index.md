@@ -123,30 +123,21 @@ Burp Proxy on Kali
 Set up a secure proxy and perform traffic analysis with Burp Suite on Kali Linux.
 </p>
 
-<p align="center">
-🔗 Project by
-<a href="https://github.com/virg736" target="_blank" rel="noopener noreferrer">GitHub</a>
+<section class="project">
+<h2>🔎 Burp Proxy on Kali</h2>
+<p>
+Set up a secure proxy and perform traffic analysis with Burp Suite on Kali Linux.
 </p>
 
+<div class="project-links">
+🔗 <a href="https://github.com/virg736/burp-kali" target="_blank" rel="noopener noreferrer">View project on GitHub</a><br>
+📬 Contact me via <a href="https://www.linkedin.com/in/tonprofil" target="_blank">LinkedIn</a> or <a href="https://github.com/virg736" target="_blank">GitHub</a>
+</div>
+
+<div class="project-note">
+🔒 <strong>Secure-by-default:</strong> HTTPS, safe linking, and no sensitive data exposed.<br>
+🔍 <a href="/SECURITY.md">View my security policy</a>
+</div>
+</section>
 
 
-
-<p align="center">
-📬 Contact me via
-<a href="https://fr.linkedin.com/in/virginie-lechene-fr" target="_blank" rel="noopener noreferrer">LinkedIn</a> or
-<a href="https://github.com/virg736" target="_blank" rel="noopener noreferrer">GitHub</a><br>
-
-
-
-
-
-<!-- Footer sécurisé -->
-<p style="text-align: center; opacity: 0.7; margin-top: 40px;">
-<strong>🔒 Secure-by-default:</strong> HTTPS, safe linking, and no sensitive data exposed.
-</p>
-
-<p style="text-align: center; font-size: 0.9em;">
-<a href="https://github.com/virg736/virg736.github.io/blob/main/SECURITY.md" target="_blank" rel="noopener noreferrer">
-🔐 View my security policy
-</a>
-</p>
