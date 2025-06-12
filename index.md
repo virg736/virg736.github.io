@@ -156,10 +156,16 @@ A phishing attack simulation to raise awareness and provide cybersecurity traini
 </p>
 
 
+
+
 <a href="/SECURITY.md">View my security policy</a>
 
-<p align="center"><small>All images used are for educational purposes only. Copyright belongs to their respective owners.</small></p>
 
+
+<p align="center"><small>All images used are for educational purposes only. Copyright belongs to their respective owners.</small></p>
+<p align="center"><small>
+This website is for educational purposes only. All tools and techniques are demonstrated in a legal, ethical, and controlled context, for training and awareness in cybersecurity.
+</small></p>
 
 
 
