@@ -87,3 +87,37 @@ margin-right: 20px;
 h1, h2, h3 {
 text-align: center;
 }
+
+
+.project-info {
+margin: 40px auto;
+padding: 20px;
+background: #f7f7f7;
+border-left: 4px solid #4caf50;
+max-width: 700px;
+font-family: sans-serif;
+}
+
+.project-info h3 {
+margin-top: 0;
+color: #333;
+}
+
+.project-links p,
+.security-info p {
+margin: 10px 0;
+font-size: 0.95em;
+color: #444;
+}
+
+.project-links a,
+.security-info a {
+color: #007acc;
+text-decoration: none;
+}
+
+.project-links a:hover,
+.security-info a:hover {
+text-decoration: underline;
+}
+
