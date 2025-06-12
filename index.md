@@ -2,12 +2,14 @@
 layout: default
 title: Virginie Lechene | Cybersecurity Portfolio
 ---
+
 <div class="project-contact">
 📬 Contact me via
 <a href="https://www.linkedin.com/in/virginie-lechene-fr" target="_blank">LinkedIn</a>
 or
 <a href="https://github.com/virg736" target="_blank">GitHub</a>
 </div>
+
 
 <img src="/Pentester.PNG" alt="Virginie Lechene - Pentester" style="width:100%; height:auto; display:block; margin: 0 auto;" />
 
