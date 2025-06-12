@@ -9,28 +9,34 @@
 <meta http-equiv="X-Content-Type-Options" content="nosniff" />
 <meta name="referrer" content="strict-origin-when-cross-origin" />
 <meta http-equiv="Permissions-Policy" content="geolocation=(), microphone=()" />
-<!-- ⚠️ CSP à activer si nécessaire -->
+
+<!-- 📝 SEO : description -->
+<meta name="description" content="Portfolio cybersécurité de Virginie Lechene : projets GitHub, outils pentest, scripts, VPN, enumeration, et plus." />
+
+<!-- (facultatif) Politique CSP à activer si nécessaire -->
 <!-- <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self'; style-src 'self'; script-src 'self';" /> -->
 
 <title>{{ page.title }}</title>
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
-<body>
 
+<body>
 <header>
 <nav class="navbar">
+<ul>
 <li><a href="#home">Home</a></li>
 <li><a href="#projects">Projects</a></li>
 <li><a href="#contact">Contact</a></li>
+</ul>
 </nav>
 </header>
 
 <main>
 {{ content }}
 </main>
-
 </body>
 </html>
+
 
 
 
