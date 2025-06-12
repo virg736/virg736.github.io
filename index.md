@@ -106,7 +106,7 @@ Analyze network interception using Burp Suite, Fiddler and MITMProxy.
 OpenVAS Network Scan
 </a>
 </strong><br>
-Vulnerability scanning with OpenVAS on Kali Linux.
+Perform vulnerability assessments using OpenVAS on Kali Linux.
 </p>
 
 <p align="center">
@@ -145,7 +145,7 @@ Set up a secure proxy and perform traffic analysis with Burp Suite on Kali Linux
 Phishing Simulation
 </a>
 </strong><br>
-Visual example of a phishing attack used for cybersecurity awareness and training.
+A phishing attack simulation to raise awareness and provide cybersecurity training.
 </p>
 
 <p align="center">
@@ -158,8 +158,5 @@ Visual example of a phishing attack used for cybersecurity awareness and trainin
 
 
 
-🔍 <a href="/SECURITY.md">View my security policy</a>
-</div>
-</section>
 
 
