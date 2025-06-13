@@ -36,16 +36,17 @@ title: Virginie Lechene | Cybersecurity Portfolio
 </a>
 </p>
 
-
-
-</p>
 <p align="center">
-🔗 Projet basé sur <a href="https://github.com/virg736/safefox-vpn-firejail" target="_blank" rel="noopener noreferrer">Safefox VPN - Firejail sur GitHub</a>
-</p>
+🔗 <strong>Projet basé sur</strong>
+<a href="https://github.com/virg736/safefox-vpn-firejail" target="_blank" rel="noopener noreferrer">
+Safefox VPN - Firejail sur GitHub
 </a>
-</strong><br>
-Run Firefox in a Firejail sandbos to improve security and process isolation.
 </p>
+
+<p align="center">
+Run Firefox in a Firejail sandbox to improve security and process isolation.
+</p>
+
 
 <p align="center">
 <a href="https://github.com/virg736/enumeration-pentest" target="_blank" rel="noopener noreferrer">
