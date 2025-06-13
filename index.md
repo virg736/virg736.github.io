@@ -37,7 +37,7 @@ title: Virginie Lechene | Cybersecurity Portfolio
 </p>
 
 <p align="center">
-🔗 <strong>Projet basé sur</strong>
+🔗 <strong>Project</strong>
 <a href="https://github.com/virg736/safefox-vpn-firejail" target="_blank" rel="noopener noreferrer">
 Safefox VPN - Firejail sur GitHub
 </a>
@@ -53,7 +53,7 @@ Run Firefox in a Firejail sandbox to improve security and process isolation.
 </p>
 
 <p align="center">
-🔗 <strong>Projet basé sur</strong>
+🔗 <strong>Project</strong>
 <a href="https://github.com/virg736/enumeration-pentest" target="_blank" rel="noopener noreferrer">
 Enumeration Pentest sur GitHub
 </a>
@@ -72,18 +72,18 @@ Understand enumeration methodology in a network audit context.
 </p>
 
 <p align="center">
-<strong>
+🔗 <strong>Project</strong>
 <a href="https://github.com/virg736/The-Man-in-the-Middle" target="_blank" rel="noopener noreferrer">
-The Man in the Middle
+The Man in the Middle on GitHub
 </a>
-</strong><br>
-Analyze network interception using Burp Suite, Fiddler and MITMProxy.
 </p>
 
 <p align="center">
-🔗 Project by
-<a href="https://github.com/virg736" target="_blank" rel="noopener noreferrer">GitHub</a>
+Analyze network interception using <em>Burp Suite</em>, <em>Fiddler</em> and <em>MITMProxy</em>.
 </p>
+
+
+
 
 
 <p align="center">
