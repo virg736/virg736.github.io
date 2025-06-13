@@ -92,19 +92,19 @@ Analyze network interception using <em>Burp Suite</em>, <em>Fiddler</em> and <em
 </a>
 </p>
 
+<p align="center">
+🔗 <strong>Project</strong>
+<a href="https://github.com/virg736/Openvas" target="_blank" rel="noopener noreferrer">
+OpenVAS Network Scan on GitHub
+</a>
+</p>
 
 <p align="center">
-<strong>
-<a href="https://github.com/virg736/Openvas" target="_blank" rel="noopener noreferrer">
-OpenVAS Network Scan
-</a>
-</strong><br>
 Perform vulnerability assessments using OpenVAS on Kali Linux.
 </p>
 
 <p align="center">
-🔗 Project by
-<a href="https://github.com/virg736" target="_blank" rel="noopener noreferrer">GitHub</a>
+🔧 Project by <a href="https://github.com/virg736" target="_blank" rel="noopener noreferrer">virg736</a>
 </p>
 
 
