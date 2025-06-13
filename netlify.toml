@@ -4,3 +4,4 @@ publish = "_site"
 
 [build.environment]
 RUBY_VERSION = "2.7.2"
+BUNDLER_VERSION = "2.2.15"
