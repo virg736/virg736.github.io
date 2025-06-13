@@ -112,17 +112,16 @@ Perform vulnerability assessments using OpenVAS on Kali Linux.
 </a>
 </p>
 
+
 <p align="center">
-<strong>
+🔗 <strong>Project</strong>
 <a href="https://github.com/virg736/burp-kali-proxy" target="_blank" rel="noopener noreferrer">
-Burp Proxy on Kali
+Burp Proxy on Kali on GitHub
 </a>
-</strong><br>
-Set up a secure proxy and perform traffic analysis with Burp Suite on Kali Linux.
 </p>
+
 <p align="center">
-🔗 Project on
-<a href="https://github.com/virg736" target="_blank" rel="noopener noreferrer">GitHub</a>
+Set up a secure proxy and perform traffic analysis with Burp Suite on Kali Linux.
 </p>
 
 
