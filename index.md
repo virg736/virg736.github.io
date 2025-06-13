@@ -103,9 +103,7 @@ OpenVAS Network Scan on GitHub
 Perform vulnerability assessments using OpenVAS on Kali Linux.
 </p>
 
-<p align="center">
-🔧 Project by <a href="https://github.com/virg736" target="_blank" rel="noopener noreferrer">virg736</a>
-</p>
+
 
 
 <p align="center">
