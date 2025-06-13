@@ -49,6 +49,10 @@ Run Firefox in a Firejail sandbox to improve security and process isolation.
 
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/virg736/enumeration-pentest/main/nmap.jpg" alt="Enumeration Nmap" width="300">
+</p>
+
+<p align="center">
 🔗 <strong>Projet basé sur</strong>
 <a href="https://github.com/virg736/enumeration-pentest" target="_blank" rel="noopener noreferrer">
 Enumeration Pentest sur GitHub
