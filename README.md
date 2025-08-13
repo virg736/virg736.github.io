@@ -44,7 +44,9 @@ Vulnerability scanning with OpenVAS.
 -  [Safefox (Firefox + Firejail + VPN)](https://github.com/virg736/safefox-vpn-firejail)
 Conteneur sécurisé pour Firefox permettant l’audit de sites suspects sans exposer ton système.
 
-[<img src="sql.jpeg" alt="Illustration SQL Injection" width="600"/>](https://github.com/virg736/github-sensibilisation-injections)
+-  [Injection awareness (SQL, XSS)](https://github.com/virg736/github-sensibilisation-injections)
+Educational project about injections (SQL, XSS…) with a Python protection script.
+  
 
 ---
 
