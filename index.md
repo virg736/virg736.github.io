@@ -82,11 +82,7 @@ The Man in the Middle on GitHub
 Analyze network interception using <em>Burp Suite</em>, <em>Fiddler</em> and <em>MITMProxy</em>.
 </p>
 
-<p align="center">
-<a href="https://github.com/virg736/github-sensibilisation-injections" target="_blank" rel="noopener noreferrer">
-<img src="https://raw.githubusercontent.com/virg736/github-sensibilisation-injections/main/sql.PNG" alt="SQL Injection Awareness" width="300">
-</a>
-</p>
+
 
 <p align="center">
 <strong>Project</strong><br>
