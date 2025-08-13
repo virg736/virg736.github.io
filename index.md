@@ -83,20 +83,6 @@ Analyze network interception using <em>Burp Suite</em>, <em>Fiddler</em> and <em
 </p>
 
 
-
-<p align="center">
-<strong>Project</strong><br>
-<a href="https://github.com/virg736/github-sensibilisation-injections" target="_blank" rel="noopener noreferrer">
-Injection awareness (SQL, XSS) on GitHub
-</a>
-</p>
-
-<p align="center">
-Educational project about SQL/XSS injections with a Python protection script.
-</p>
-
-
-
 <p align="center">
 <a href="https://github.com/virg736/Openvas" target="_blank" rel="noopener noreferrer">
 <img src="https://raw.githubusercontent.com/virg736/Openvas/main/OpenvasKaliLinux.PNG" alt="OpenVAS Kali Linux" width="300">
