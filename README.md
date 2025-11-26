@@ -42,17 +42,6 @@ Je développe des environnements d’audit et de tests pratiques pour **apprendr
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License">
 </p>
 
-### 🔎 Description du projet
-
-CyberCrawler est un outil d’audit Web développé en Python permettant :
-
-- Le **crawl automatique** de sites web  
-- La **détection de liens**, formulaires et paramètres exploitables  
-- Une base pour automatiser des audits web (XSS, SQLi, etc.)  
-- Un workflow compatible **Debian / Parrot OS / Kali Linux**  
-
-Cet outil sert de fondation à des tests de sécurité plus avancés.
-
 ---
 
 ### 🔗 Lien du projet
@@ -70,26 +59,28 @@ Cet outil sert de fondation à des tests de sécurité plus avancés.
 ## 🐍 Projet n°2 — Injection SQL sur OWASP Juice Shop (Python + Burp Suite)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/virg736/Python-SQLi-JuiceShop-BurpSuite/main/Projet%20Python.PNG"
-       alt="Projet Juice Shop SQLi"
-       width="650">
+  <a href="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/actions/workflows/python-ci.yml">
+    <img src="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/actions/workflows/python-ci.yml/badge.svg" alt="Python CI">
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
+  </a>
 </p>
 
+
+<h1 align="center">
+Projet n°2 - Injection SQL sur OWASP Juice Shop - Burp Suite
+</h1>
 <p align="center">
-  <img src="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/actions/workflows/python-ci.yml/badge.svg" alt="Python CI">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License">
+  <img src="https://raw.githubusercontent.com/virg736/Python-SQLi-JuiceShop-BurpSuite/main/Projet%20python.PNG"
+       alt="Couverture Projet Python"
+       width="900" style="max-width:100%;height:auto;">
 </p>
 
-### 🔎 Description du projet
 
-Projet pédagogique d’audit d’application web utilisant :
+<div align="center">
 
-- une **injection SQL (SQLi)** sur l’application OWASP Juice Shop  
-- l’outil **Burp Suite** pour intercepter les requêtes  
-- un script Python pour automatiser certaines étapes  
-- tests en environnement Debian / Parrot OS  
-
-Ce projet démontre différentes méthodes d’injection SQL, du test simple à l’exploitation avancée (Blind SQLi).
+<p><em>Illustration du projet <strong>Injection SQL sur OWASP Juice Shop - Burp Suite</strong></em></p>
 
 ---
 
