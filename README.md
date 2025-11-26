@@ -48,9 +48,10 @@ Je développe des environnements d’audit et de tests pratiques pour **apprendr
 </p>
 
 ---
+## 🐍 Projet n°2 — Injection SQL sur OWASP Juice Shop (Python + Burp Suite)
 
 <h1 align="center">
-Projet n°2 - Injection SQL sur OWASP Juice Shop - Burp Suite
+
 </h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/virg736/Python-SQLi-JuiceShop-BurpSuite/main/Projet%20python.PNG"
@@ -65,11 +66,6 @@ Projet n°2 - Injection SQL sur OWASP Juice Shop - Burp Suite
   <img src="https://raw.githubusercontent.com/virg736/Python-SQLi-JuiceShop-BurpSuite/main/Projet%20Python.PNG"
        alt="Projet SQLi Juice Shop"
        width="650">
-</p>
-
-<p align="center">
-  <img src="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/actions/workflows/python-ci.yml/badge.svg" alt="Python CI">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License">
 </p>
 
 <p align="center">
