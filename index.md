@@ -51,6 +51,13 @@ title: Virginie Lechene | Cybersecurity Portfolio
 
 <p align="center">
   <img src="https://github.com/virg736/CyberCrawler-Python/blob/main/Projet%20Python.PNG" 
+       alt="Illustration du projet CyberCrawler-Python" width="850">
+  <br>
+  <em>Illustration du projet <strong>CyberCrawler-Python</strong></em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/virg736/CyberCrawler-Python/blob/main/Projet%20Python.PNG" 
        alt="Illustration CyberCrawler-Python" 
        width="650">
 </p>
