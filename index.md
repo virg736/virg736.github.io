@@ -92,6 +92,7 @@ title: Virginie Lechene | Cybersecurity Portfolio
 </p>
 
 ---
+
 ## 🐍 Projet n°3 - Analyse & Exploitation XSS (Dalfox + BeEF)
 
 <p align="center">
