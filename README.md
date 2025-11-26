@@ -116,23 +116,6 @@ Projet n°2 - Injection SQL sur OWASP Juice Shop - Burp Suite
 ### 🔎 Description
 
 Projet complet d’analyse, détection et exploitation d’une **faille XSS** :  
-- Recherche de vulnérabilités XSS avec **Dalfox**  
-- Exploitation du navigateur victime avec **BeEF**  
-- Analyse du comportement du JavaScript injectable  
-- Projet entièrement réalisé sous **Parrot OS**  
-
-Ce projet démontre une chaîne offensive réaliste d’exploitation XSS.
-
----
-
-### 🔬 Fonctionnalités étudiées
-
-- Détection automatisée XSS (Dalfox)  
-- Hooks et exploitation navigateur (BeEF)  
-- Analyse du payload  
-- Démonstration pédagogique étape par étape  
-
----
 
 ### 🔗 Lien du projet
 
