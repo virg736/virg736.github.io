@@ -41,9 +41,7 @@ Je développe des environnements d’audit et de tests pratiques pour **apprendr
   <img src="https://github.com/virg736/CyberCrawler-Python/actions/workflows/python-ci.yml/badge.svg" alt="Python CI">
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License">
 </p>
-
----
-
+ 
 ### 🔗 Lien du projet
 
 <p align="center">
@@ -77,8 +75,6 @@ Projet n°2 - Injection SQL sur OWASP Juice Shop - Burp Suite
 <div align="center">
 
 <p><em>Illustration du projet <strong>Injection SQL sur OWASP Juice Shop - Burp Suite</strong></em></p>
-
----
 
 ### 🔗 Lien du projet
 
