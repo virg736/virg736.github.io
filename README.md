@@ -26,10 +26,9 @@ Je développe des environnements d’audit et de tests pratiques pour **apprendr
 <h2 id="projects">My GitHub Projects</h2>
 ## projets
 
-
 ---
 
-## 🐍 CyberCrawler-Python
+## 🐍 Projet n°1 - CyberCrawler-Python
 
 <p align="center">
   <img src="https://github.com/virg736/CyberCrawler-Python/blob/main/Projet%20Python.PNG" 
@@ -41,8 +40,6 @@ Je développe des environnements d’audit et de tests pratiques pour **apprendr
   <img src="https://github.com/virg736/CyberCrawler-Python/actions/workflows/python-ci.yml/badge.svg" alt="Python CI">
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License">
 </p>
- 
-### 🔗 Lien du projet
 
 <p align="center">
   <a href="https://github.com/virg736/CyberCrawler-Python" target="_blank">
@@ -51,16 +48,6 @@ Je développe des environnements d’audit et de tests pratiques pour **apprendr
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/actions/workflows/python-ci.yml">
-    <img src="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/actions/workflows/python-ci.yml/badge.svg" alt="Python CI">
-  </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
-  </a>
-</p>
-
 
 <h1 align="center">
 Projet n°2 - Injection SQL sur OWASP Juice Shop - Burp Suite
@@ -71,86 +58,6 @@ Projet n°2 - Injection SQL sur OWASP Juice Shop - Burp Suite
        width="900" style="max-width:100%;height:auto;">
 </p>
 
-
-<div align="center">
-
-<p><em>Illustration du projet <strong>Injection SQL sur OWASP Juice Shop - Burp Suite</strong></em></p>
-
-### 🔗 Lien du projet
-
-<p align="center">
-  <a href="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite" target="_blank">
-    👉 Voir le projet sur GitHub
-  </a>
-</p>
-
----
-
-## 🛡️ Projet n°3 - Analyse & Exploitation XSS (Dalfox + BeEF)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/virg736/Analyse-Exploitation-faille-XSS-Dalfox-BeEF/main/photo_XSS.PNG"
-       alt="Analyse XSS Dalfox BeEF"
-       width="650">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License">
-  <img src="https://img.shields.io/badge/Security_Research-blue" alt="Security Research">
-</p>
-
-### 🔎 Description
-
-Projet complet d’analyse, détection et exploitation d’une **faille XSS** :  
-
-### 🔗 Lien du projet
-
-<p align="center">
-  <a href="https://github.com/virg736/Analyse-Exploitation-faille-XSS-Dalfox-BeEF" target="_blank">
-    👉 Voir le projet sur GitHub
-  </a>
-</p>
-
----
-
----
-
-## 🐍 Projet n°1 — CyberCrawler-Python
-
-<p align="center">
-  <img src="https://github.com/virg736/CyberCrawler-Python/blob/main/Projet%20Python.PNG" 
-       alt="Illustration CyberCrawler-Python" 
-       width="650">
-</p>
-
-<p align="center">
-  <img src="https://github.com/virg736/CyberCrawler-Python/actions/workflows/python-ci.yml/badge.svg" alt="Python CI">
-  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License">
-</p>
-
-<p align="center">
-  <a href="https://github.com/virg736/CyberCrawler-Python" target="_blank">
-    👉 Voir le projet sur GitHub
-  </a>
-</p>
-
----
-
-
----
-
-## 🐍 Projet n°2 — Injection SQL sur OWASP Juice Shop (Python + Burp Suite)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/virg736/Python-SQLi-JuiceShop-BurpSuite/main/Projet%20Python.PNG"
-       alt="Couverture Projet Juice Shop"
-       width="650">
-</p>
-
-<p align="center">
-  <a href="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/actions/workflows/python-ci.yml">
-    <img src="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/actions/workflows/python-ci.yml/badge.svg" alt="Python CI">
-  </a
 
 ## 🐍 Projet n°2 — Injection SQL sur OWASP Juice Shop (Python + Burp Suite)
 
@@ -193,9 +100,6 @@ Projet complet d’analyse, détection et exploitation d’une **faille XSS** :
 </p>
 
 ---
-
-
-
 
 <h2 id="contact">Contact</h2>
 ## Contact
