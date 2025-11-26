@@ -84,9 +84,6 @@ Je développe des environnements d’audit et de tests pratiques pour **apprendr
 </p>
 
 
----
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/virg736/Analyse-Exploitation-faille-XSS-Dalfox-BeEF/main/photo_XSS.PNG"
        alt="Analyse XSS Dalfox BeEF"
