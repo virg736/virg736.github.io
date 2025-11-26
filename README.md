@@ -27,6 +27,54 @@ Je développe des environnements d’audit et de tests pratiques pour **apprendr
 ## projets
 
 
+---
+
+## 🐍 CyberCrawler-Python
+
+<p align="center">
+  <img src="https://github.com/virg736/CyberCrawler-Python/blob/main/Projet%20Python.PNG" 
+       alt="Illustration CyberCrawler-Python" 
+       width="650">
+</p>
+
+<p align="center">
+  <img src="https://github.com/virg736/CyberCrawler-Python/actions/workflows/python-ci.yml/badge.svg" alt="Python CI">
+  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License">
+</p>
+
+### 🔎 Description du projet
+
+CyberCrawler est un outil d’audit Web développé en Python permettant :
+
+- Le **crawl automatique** de sites web  
+- La **détection de liens**, formulaires et paramètres exploitables  
+- Une base pour automatiser des audits web (XSS, SQLi, etc.)  
+- Un workflow compatible **Debian / Parrot OS / Kali Linux**  
+
+Cet outil sert de fondation à des tests de sécurité plus avancés.
+
+---
+
+### 🚀 Fonctionnalités principales
+
+- 🕸️ Crawler HTML récursif  
+- 🧭 Mapping des URLs  
+- 📡 Détection des paramètres vulnérables  
+- 🧰 Architecture modulaire (ajout futur : XSS / SQLI scanners)
+
+---
+
+### 🔗 Lien du projet
+
+<p align="center">
+  <a href="https://github.com/virg736/CyberCrawler-Python" target="_blank">
+    👉 Voir le projet sur GitHub
+  </a>
+</p>
+
+---
+
+
 
 
 <h2 id="contact">Contact</h2>
