@@ -78,7 +78,13 @@ title: Virginie Lechene | Cybersecurity Portfolio
        alt="Couverture Projet Python"
        width="900" style="max-width:100%;height:auto;">
 </p>
-
+<p align="center">
+  <a href="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/actions/workflows/python-ci.yml">
+    <img src="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/actions/workflows/python-ci.yml/badge.svg" alt="Python CI">
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
+  </a>
 <p align="center">
   <a href="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite" target="_blank">
     👉 Voir le projet sur GitHub
