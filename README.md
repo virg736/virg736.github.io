@@ -23,6 +23,49 @@ Je développe des environnements d’audit et de tests pratiques pour **apprendr
 
 ---
 
+## Projet Pentester - Conception & Ingénierie Offensive
+
+Ce projet est le fruit d’un travail complet d’ingénierie en cybersécurité, que j’ai conçu et développé moi-même dans un environnement contrôlé.  
+Il regroupe l’ensemble des étapes clés d’une mission de pentest, depuis la **cartographie**, l’**automatisation de l’analyse**, jusqu’à l’**exploitation des vulnérabilités**.
+
+J’y ai développé :
+
+- des outils sur mesure en Python dédiés au pentest (crawler récursif, SQLi, XSS, scanner interne) ;
+- une architecture de test isolée (VM, réseau interne, serveurs vulnérables) ;
+- des procédures d’audit réalistes inspirées des standards professionnels (OWASP, PTES) ;
+- des rapports techniques et pédagogiques avec captures d’écran, logs et preuves d’exploitation.
+
+Le projet illustre mes compétences en :
+
+- ⚙️ **automatisation offensive** (scripts Python, exploitation)  
+- 🧠 **analyse de vulnérabilités**  
+- 🧪 **méthodologie de test d’intrusion**  
+- 🏗️ **conception d’environnement de test**  
+- 📝 **documentation technique et reporting**  
+
+Ce travail démontre ma capacité à **concevoir, automatiser et documenter un audit complet**, d’un point de vue ingénierie comme opérationnel.
+
+
+## 🧰 Outils modernes utilisés (Ingénierie offensive & défensive)
+
+Dans le cadre de ce projet, j’ai appliqué une approche complète d’**ingénierie en cybersécurité**, mêlant techniques **offensives** (pentest, exploitation, automatisation) et **défensives** (analyse, durcissement, validation des risques).
+
+J’utilise exclusivement des outils et commandes **modernes**, conformes aux pratiques actuelles de la cybersécurité :
+
+- **Python 3** → langage principal pour l’automatisation offensive et défensive  
+- **Requests & BeautifulSoup4** → analyse et crawling avancé des pages web  
+- **Docker** → déploiement rapide d’environnements isolés et reproductibles (OWASP Juice Shop)  
+- **Burp Suite** → interception, analyse et manipulation des requêtes HTTP  
+- **ip / ss** → commandes réseau modernes (remplaçants de `ifconfig` / `netstat`) utilisées pour l’analyse et le diagnostic système  
+- **curl** → tests manuels de requêtes web et validation des failles  
+- **Parrot OS / Debian** → environnements spécialisés pour le pentest et l’analyse défensive  
+- **Git & GitHub** → gestion, versionnage et industrialisation du code
+
+💡 *Tous les outils et commandes employés sont récents, stables et alignés avec les standards modernes de la cybersécurité, du pentest et de l’ingénierie de scripts.*
+
+
+---
+
 <h2 id="projects">My GitHub Projects</h2>
 
 ## 📊 Avancement global du projet
