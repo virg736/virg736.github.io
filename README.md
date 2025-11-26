@@ -136,6 +136,22 @@ Projet complet d’analyse, détection et exploitation d’une **faille XSS** :
 
 ---
 
+
+---
+
+## 🐍 Projet n°2 — Injection SQL sur OWASP Juice Shop (Python + Burp Suite)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/virg736/Python-SQLi-JuiceShop-BurpSuite/main/Projet%20Python.PNG"
+       alt="Couverture Projet Juice Shop"
+       width="650">
+</p>
+
+<p align="center">
+  <a href="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/actions/workflows/python-ci.yml">
+    <img src="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/actions/workflows/python-ci.yml/badge.svg" alt="Python CI">
+  </a
+
 ## 🐍 Projet n°2 — Injection SQL sur OWASP Juice Shop (Python + Burp Suite)
 
 <p align="center">
