@@ -113,6 +113,74 @@ Projet complet d’analyse, détection et exploitation d’une **faille XSS** :
 
 ---
 
+---
+
+## 🐍 Projet n°1 — CyberCrawler-Python
+
+<p align="center">
+  <img src="https://github.com/virg736/CyberCrawler-Python/blob/main/Projet%20Python.PNG" 
+       alt="Illustration CyberCrawler-Python" 
+       width="650">
+</p>
+
+<p align="center">
+  <img src="https://github.com/virg736/CyberCrawler-Python/actions/workflows/python-ci.yml/badge.svg" alt="Python CI">
+  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License">
+</p>
+
+<p align="center">
+  <a href="https://github.com/virg736/CyberCrawler-Python" target="_blank">
+    👉 Voir le projet sur GitHub
+  </a>
+</p>
+
+---
+
+## 🐍 Projet n°2 — Injection SQL sur OWASP Juice Shop (Python + Burp Suite)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/virg736/Python-SQLi-JuiceShop-BurpSuite/main/Projet%20Python.PNG"
+       alt="Projet SQLi Juice Shop"
+       width="650">
+</p>
+
+<p align="center">
+  <img src="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/actions/workflows/python-ci.yml/badge.svg" alt="Python CI">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License">
+</p>
+
+<p align="center">
+  <a href="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite" target="_blank">
+    👉 Voir le projet sur GitHub
+  </a>
+</p>
+
+---
+
+## 🛡️ Projet n°3 — Analyse & Exploitation XSS (Dalfox + BeEF)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/virg736/Analyse-Exploitation-faille-XSS-Dalfox-BeEF/main/photo_XSS.PNG"
+       alt="Analyse XSS Dalfox BeEF"
+       width="650">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License">
+  <img src="https://img.shields.io/badge/Security_Research-blue" alt="Security Research">
+</p>
+
+<p align="center">
+  <a href="https://github.com/virg736/Analyse-Exploitation-faille-XSS-Dalfox-BeEF" target="_blank">
+    👉 Voir le projet sur GitHub
+  </a>
+</p>
+
+---
+
+
+
+
 <h2 id="contact">Contact</h2>
 ## Contact
 
