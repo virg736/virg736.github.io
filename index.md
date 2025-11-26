@@ -91,7 +91,6 @@ title: Virginie Lechene | Cybersecurity Portfolio
   </a>
 </p>
 
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/virg736/Analyse-Exploitation-faille-XSS-Dalfox-BeEF/main/photo_XSS.PNG"
