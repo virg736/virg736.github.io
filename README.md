@@ -74,6 +74,58 @@ Cet outil sert de fondation à des tests de sécurité plus avancés.
 
 ---
 
+---
+
+## 🐍 Projet n°2 — Injection SQL sur OWASP Juice Shop (Python + Burp Suite)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/virg736/Python-SQLi-JuiceShop-BurpSuite/main/Projet%20Python.PNG"
+       alt="Projet Juice Shop SQLi"
+       width="650">
+</p>
+
+<p align="center">
+  <img src="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/actions/workflows/python-ci.yml/badge.svg" alt="Python CI">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License">
+</p>
+
+### 🔎 Description du projet
+
+Projet pédagogique d’audit d’application web utilisant :
+
+- une **injection SQL (SQLi)** sur l’application OWASP Juice Shop  
+- l’outil **Burp Suite** pour intercepter les requêtes  
+- un script Python pour automatiser certaines étapes  
+- tests en environnement Debian / Parrot OS  
+
+Ce projet démontre différentes méthodes d’injection SQL, du test simple à l’exploitation avancée (Blind SQLi).
+
+---
+
+### 🧪 Étapes principales du projet
+
+- 🔌 Connexion des machines (VPN interne)  
+- 🚀 Lancement du serveur Juice Shop  
+- 🧭 Interception du trafic avec Burp Suite  
+- 💉 Injection SQL simple  
+- 🕵️ Blind SQLi (avancée)  
+- 🧰 Analyse des réponses HTTP  
+- 🔐 Introduction à la sécurité & légalité
+
+---
+
+### 🔗 Lien du projet
+
+<p align="center">
+  <a href="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite" target="_blank">
+    👉 Voir le projet sur GitHub
+  </a>
+</p>
+
+---
+
+
+
 
 
 
