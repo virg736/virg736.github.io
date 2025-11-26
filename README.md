@@ -87,6 +87,12 @@ Je développe des environnements d’audit et de tests pratiques pour **apprendr
 
 ## 🐍 Projet n°3 - Analyse & Exploitation XSS (Dalfox + BeEF)
 
+
+---
+
+## 🛡️ Projet n°3 — Analyse & Exploitation XSS (Dalfox + BeEF)
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/virg736/Analyse-Exploitation-faille-XSS-Dalfox-BeEF/main/photo_XSS.PNG"
        alt="Analyse XSS Dalfox BeEF"
