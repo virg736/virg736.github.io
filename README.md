@@ -55,15 +55,6 @@ Cet outil sert de fondation à des tests de sécurité plus avancés.
 
 ---
 
-### 🚀 Fonctionnalités principales
-
-- 🕸️ Crawler HTML récursif  
-- 🧭 Mapping des URLs  
-- 📡 Détection des paramètres vulnérables  
-- 🧰 Architecture modulaire (ajout futur : XSS / SQLI scanners)
-
----
-
 ### 🔗 Lien du projet
 
 <p align="center">
@@ -99,18 +90,6 @@ Projet pédagogique d’audit d’application web utilisant :
 - tests en environnement Debian / Parrot OS  
 
 Ce projet démontre différentes méthodes d’injection SQL, du test simple à l’exploitation avancée (Blind SQLi).
-
----
-
-### 🧪 Étapes principales du projet
-
-- 🔌 Connexion des machines (VPN interne)  
-- 🚀 Lancement du serveur Juice Shop  
-- 🧭 Interception du trafic avec Burp Suite  
-- 💉 Injection SQL simple  
-- 🕵️ Blind SQLi (avancée)  
-- 🧰 Analyse des réponses HTTP  
-- 🔐 Introduction à la sécurité & légalité
 
 ---
 
