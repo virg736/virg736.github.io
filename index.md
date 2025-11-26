@@ -109,7 +109,7 @@ title: Virginie Lechene | Cybersecurity Portfolio
 ---
 
 <h2 id="contact">Contact</h2>
-## Contact
+
 
 <section id="contact" style="margin-top: 50px;">
 
