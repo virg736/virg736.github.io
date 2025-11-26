@@ -41,6 +41,14 @@ Je développe des environnements d’audit et de tests pratiques pour **apprendr
 ## 🐍 Projet n°1 - CyberCrawler-Python
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/virg736/CyberCrawler-Python/main/Projet%20Python.PNG"
+       alt="Illustration CyberCrawler-Python"
+       width="650">
+</p>
+
+
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/virg736/CyberCrawler-Python/main/projet%20Python.PNG"
        alt="Illustration CyberCrawler-Python"
        width="650">
