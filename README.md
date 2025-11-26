@@ -46,21 +46,6 @@ Je développe des environnements d’audit et de tests pratiques pour **apprendr
        width="650">
 </p>
 
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/virg736/CyberCrawler-Python/main/projet%20Python.PNG"
-       alt="Illustration CyberCrawler-Python"
-       width="650">
-</p>
-
-
-<p align="center">
-  <img src="https://github.com/virg736/CyberCrawler-Python/blob/main/Projet%20Python.PNG" 
-       alt="Illustration CyberCrawler-Python" 
-       width="650">
-</p>
-
 <p align="center">
   <img src="https://github.com/virg736/CyberCrawler-Python/actions/workflows/python-ci.yml/badge.svg" alt="Python CI">
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License">
