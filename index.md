@@ -107,3 +107,14 @@ title: Virginie Lechene | Cybersecurity Portfolio
 </p>
 
 ---
+
+<h2 id="contact">Contact</h2>
+## Contact
+
+<section id="contact" style="margin-top: 50px;">
+
+<p>💻 GitHub : <a href="https://github.com/virg736" target="_blank">github.com/virg736</a></p>
+<p>🔗 LinkedIn : <a href="https://www.linkedin.com/in/ton-url" target="_blank">linkedin.com/in/virginie-lechene.fr</a></p>
+</section>
+
+---
