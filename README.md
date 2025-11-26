@@ -86,7 +86,7 @@ Projet n°2 - Injection SQL sur OWASP Juice Shop - Burp Suite
 
 ---
 
-## 🛡️ Projet n°3 — Analyse & Exploitation XSS (Dalfox + BeEF)
+## 🛡️ Projet n°3 - Analyse & Exploitation XSS (Dalfox + BeEF)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/virg736/Analyse-Exploitation-faille-XSS-Dalfox-BeEF/main/photo_XSS.PNG"
