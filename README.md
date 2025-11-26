@@ -100,7 +100,6 @@ Je développe des environnements d’audit et de tests pratiques pour **apprendr
 ---
 
 <h2 id="contact">Contact</h2>
-## Contact
 
 
 <section id="contact" style="margin-top: 50px;">
