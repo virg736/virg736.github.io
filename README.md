@@ -83,10 +83,6 @@ Je développe des environnements d’audit et de tests pratiques pour **apprendr
   </a>
 </p>
 
----
-
-## 🐍 Projet n°3 - Analyse & Exploitation XSS (Dalfox + BeEF)
-
 
 ---
 
