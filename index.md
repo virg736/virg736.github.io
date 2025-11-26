@@ -19,12 +19,10 @@ title: Virginie Lechene | Cybersecurity Portfolio
 <!-- HOME -->
 <section id="home">
 
-<div align="center">
-<p><strong>Trained in both offensive and defensive cybersecurity.</strong><br>
-<strong>Specialized in penetration testing, GDPR compliance audits, and security awareness.</strong><br>
-<strong>Creator of educational cybersecurity projects.</strong><br>
-<strong>Developer of cybersecurity tools and custom scripts.</strong></p>
-</div>
+<p align="center">
+Formée en <strong>cybersécurité offensive et défensive</strong>.<br>
+Spécialisée en <strong>pentest</strong>, développeuse de <strong>scripts</strong> et créatrice de <strong>projets GitHub</strong>.
+</p>
 
 <!-- Exemples de projets -->
 <!-- Garde ici tout ton code d’images + titres + liens que tu as déjà mis -->
