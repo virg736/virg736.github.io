@@ -24,8 +24,6 @@ Je développe des environnements d’audit et de tests pratiques pour **apprendr
 ---
 
 <h2 id="projects">My GitHub Projects</h2>
-## projets
-
 
 ## 📊 Avancement global du projet
 
