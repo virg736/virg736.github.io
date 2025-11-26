@@ -98,3 +98,50 @@ Projet n°2 - Injection SQL sur OWASP Juice Shop - Burp Suite
 
 ---
 
+---
+
+## 🛡️ Projet n°3 — Analyse & Exploitation XSS (Dalfox + BeEF)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/virg736/Analyse-Exploitation-faille-XSS-Dalfox-BeEF/main/photo_XSS.PNG"
+       alt="Analyse XSS Dalfox BeEF"
+       width="650">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License">
+  <img src="https://img.shields.io/badge/Security_Research-blue" alt="Security Research">
+</p>
+
+### 🔎 Description
+
+Projet complet d’analyse, détection et exploitation d’une **faille XSS** :  
+- Recherche de vulnérabilités XSS avec **Dalfox**  
+- Exploitation du navigateur victime avec **BeEF**  
+- Analyse du comportement du JavaScript injectable  
+- Projet entièrement réalisé sous **Parrot OS**  
+
+Ce projet démontre une chaîne offensive réaliste d’exploitation XSS.
+
+---
+
+### 🔬 Fonctionnalités étudiées
+
+- Détection automatisée XSS (Dalfox)  
+- Hooks et exploitation navigateur (BeEF)  
+- Analyse du payload  
+- Démonstration pédagogique étape par étape  
+
+---
+
+### 🔗 Lien du projet
+
+<p align="center">
+  <a href="https://github.com/virg736/Analyse-Exploitation-faille-XSS-Dalfox-BeEF" target="_blank">
+    👉 Voir le projet sur GitHub
+  </a>
+</p>
+
+---
+
+
