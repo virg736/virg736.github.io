@@ -48,7 +48,8 @@ Je développe des environnements d’audit et de tests pratiques pour **apprendr
 </p>
 
 ---
-## 🐍 Projet n°2 — Injection SQL sur OWASP Juice Shop (Python + Burp Suite)
+
+## 🐍 Projet n°2 - Injection SQL sur OWASP Juice Shop (Python + Burp Suite)
 
 <h1 align="center">
 
@@ -59,15 +60,6 @@ Je développe des environnements d’audit et de tests pratiques pour **apprendr
        width="900" style="max-width:100%;height:auto;">
 </p>
 
-
-## 🐍 Projet n°2 — Injection SQL sur OWASP Juice Shop (Python + Burp Suite)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/virg736/Python-SQLi-JuiceShop-BurpSuite/main/Projet%20Python.PNG"
-       alt="Projet SQLi Juice Shop"
-       width="650">
-</p>
-
 <p align="center">
   <a href="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite" target="_blank">
     👉 Voir le projet sur GitHub
@@ -76,7 +68,7 @@ Je développe des environnements d’audit et de tests pratiques pour **apprendr
 
 ---
 
-## 🛡️ Projet n°3 — Analyse & Exploitation XSS (Dalfox + BeEF)
+## 🛡️ Projet n°3 - Analyse & Exploitation XSS (Dalfox + BeEF)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/virg736/Analyse-Exploitation-faille-XSS-Dalfox-BeEF/main/photo_XSS.PNG"
