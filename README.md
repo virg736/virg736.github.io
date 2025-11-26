@@ -26,27 +26,7 @@ Je développe des environnements d’audit et de tests pratiques pour **apprendr
 <h2 id="projects">My GitHub Projects</h2>
 ## projets
 
-- [Brute Force – Educational exercise](https://github.com/virg736/brute-force-exercice)
-Demonstration of a brute-force attack on a fictitious password.
 
-- [Enumeration Pentest](https://github.com/virg736/enumeration-pentest)
-Enumeration methodology in a network audit context.
-
-- [The Man-in-the-Middle](https://github.com/virg736/The-Man-in-the-Middle)
-Interception audit with Burp Suite, Fiddler, MITMProxy.
-
-- [Burp Proxy on Kali](https://github.com/virg736/burp-kali-proxy)
-Secure proxy setup with Burp on Kali Linux.
-
-- [OpenVAS Network Scan](https://github.com/virg736/Openvas)
-Vulnerability scanning with OpenVAS.
-
--  [Safefox (Firefox + Firejail + VPN)](https://github.com/virg736/safefox-vpn-firejail)
-Conteneur sécurisé pour Firefox permettant l’audit de sites suspects sans exposer ton système.
-
-
-
----
 
 
 <h2 id="contact">Contact</h2>
