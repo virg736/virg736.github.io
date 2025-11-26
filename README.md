@@ -58,6 +58,8 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
 - **curl** → tests manuels de requêtes web et validation des failles  
 - **Parrot OS / Debian** → environnements spécialisés pour le pentest et l’analyse défensive  
 - **Git & GitHub** → gestion, versionnage et industrialisation du code
+- **Dalfox** → scanner XSS moderne, rapide et orienté détecteur logique  
+- **BeEF (Browser Exploitation Framework)** → exploitation avancée XSS côté navigateur (hooking, modules d’attaque)
 
 💡 *Tous les outils et commandes employés sont récents, stables et alignés avec les standards modernes de la cybersécurité, du pentest et de l’ingénierie de scripts.*
 
