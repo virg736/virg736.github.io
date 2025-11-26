@@ -30,7 +30,24 @@ title: Virginie Lechene | Cybersecurity Portfolio
 <!-- Garde ici tout ton code d’images + titres + liens que tu as déjà mis -->
 </section>
 
-# 🐍 CyberCrawler-Python
+---
+
+<h2 id="projects">My GitHub Projects</h2>
+
+## 📊 Avancement global du projet
+
+| Projet | Fonction                         | Statut     |
+|--------|----------------------------------|------------|
+| **1**  | Crawler HTML récursif            | 🟩 Terminé |
+| **2**  | Détection SQL Injection          | 🟩 Terminé |
+| **3**  | Détection XSS                    | 🟩 Terminé |
+| **4**  | Recherche de données sensibles   | ⚪ À venir |
+| **5**  | Génération de rapports JSON / MD | ⚪ À venir |
+
+
+---
+
+## 🐍 Projet n°1 - CyberCrawler-Python
 
 <p align="center">
   <img src="https://github.com/virg736/CyberCrawler-Python/blob/main/Projet%20Python.PNG" 
@@ -43,21 +60,6 @@ title: Virginie Lechene | Cybersecurity Portfolio
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License">
 </p>
 
-### 🔎 Description du projet
-
-CyberCrawler est un outil d’audit Web développé en Python permettant :
-
-- Le **crawl automatique** de sites web  
-- La **détection de liens**, formulaires et paramètres exploitables  
-- Une base pour automatiser des audits web (XSS, SQLi, etc.)  
-- Un workflow compatible **Debian / Parrot OS / Kali Linux**  
-
-Cet outil sert de fondation à des tests de sécurité plus avancés.
-
----
-
-### 🔗 Lien du projet
-
 <p align="center">
   <a href="https://github.com/virg736/CyberCrawler-Python" target="_blank">
     👉 Voir le projet sur GitHub
@@ -66,3 +68,42 @@ Cet outil sert de fondation à des tests de sécurité plus avancés.
 
 ---
 
+## 🐍 Projet n°2 - Injection SQL sur OWASP Juice Shop (Python + Burp Suite)
+
+<h1 align="center">
+
+</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/virg736/Python-SQLi-JuiceShop-BurpSuite/main/Projet%20python.PNG"
+       alt="Couverture Projet Python"
+       width="900" style="max-width:100%;height:auto;">
+</p>
+
+<p align="center">
+  <a href="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite" target="_blank">
+    👉 Voir le projet sur GitHub
+  </a>
+</p>
+
+---
+
+## 🛡️ Projet n°3 - Analyse & Exploitation XSS (Dalfox + BeEF)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/virg736/Analyse-Exploitation-faille-XSS-Dalfox-BeEF/main/photo_XSS.PNG"
+       alt="Analyse XSS Dalfox BeEF"
+       width="650">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License">
+  <img src="https://img.shields.io/badge/Security_Research-blue" alt="Security Research">
+</p>
+
+<p align="center">
+  <a href="https://github.com/virg736/Analyse-Exploitation-faille-XSS-Dalfox-BeEF" target="_blank">
+    👉 Voir le projet sur GitHub
+  </a>
+</p>
+
+---
