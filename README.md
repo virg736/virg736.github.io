@@ -26,6 +26,18 @@ Je développe des environnements d’audit et de tests pratiques pour **apprendr
 <h2 id="projects">My GitHub Projects</h2>
 ## projets
 
+
+## 📊 Avancement global du projet
+
+| Projet | Fonction                         | Statut     |
+|--------|----------------------------------|------------|
+| **1**  | Crawler HTML récursif            | 🟩 Terminé |
+| **2**  | Détection SQL Injection          | 🟩 Terminé |
+| **3**  | Détection XSS                    | 🟩 Terminé |
+| **4**  | Recherche de données sensibles   | ⚪ À venir |
+| **5**  | Génération de rapports JSON / MD | ⚪ À venir |
+
+
 ---
 
 ## 🐍 Projet n°1 - CyberCrawler-Python
