@@ -127,7 +127,11 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
 </p>  
 
 
-## Analyse & Exploitation d’une Faille XSS - Dalfox + BeEF (Laboratoire Offensif Complet) 
+</p>
+
+## 🛡️ Projet n°3 – Analyse & Exploitation d’une Faille XSS (Dalfox + BeEF)
+
+<p align="center">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/virg736/Analyse-Exploitation-faille-XSS-Dalfox-BeEF/main/photo_XSS.PNG"
