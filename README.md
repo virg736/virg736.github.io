@@ -21,7 +21,7 @@ Spécialisée en <strong>pentest</strong>, développeuse de <strong>scripts</str
 
 ---
 
-## Projet Pentester - Conception & Ingénierie Offensive
+## Projet Pentester - Conception & Ingénierie Offensive et défensive 
 
 Ce projet est le fruit d’un travail complet d’ingénierie en cybersécurité, que j’ai conçu et développé moi-même dans un environnement contrôlé.  
 Il regroupe l’ensemble des étapes clés d’une mission de pentest, depuis la **cartographie**, l’**automatisation de l’analyse**, jusqu’à l’**exploitation des vulnérabilités**.
