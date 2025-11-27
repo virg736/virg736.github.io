@@ -31,7 +31,7 @@ Spécialisée en <strong>pentest</strong>, développeuse de <strong>scripts</str
 ---
 
 
-## Projet Pentester - Conception & Ingénierie Offensive
+## 🐍 Projet Pentester - Conception & Ingénierie Offensive
 
 Ce projet est le fruit d’un travail complet d’ingénierie en cybersécurité, que j’ai conçu et développé moi-même dans un environnement contrôlé.  
 Il regroupe l’ensemble des étapes clés d’une mission de pentest, depuis la **cartographie**, l’**automatisation de l’analyse**, jusqu’à l’**exploitation des vulnérabilités**.
@@ -140,24 +140,6 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
 
 ---
 
-## 🛡️ Projet n°3 – Analyse & Exploitation d’une Faille XSS (Dalfox + BeEF)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/virg736/Analyse-Exploitation-XSS/main/Images/xss-cover.png"
-       alt="Analyse XSS Dalfox BeEF"
-       width="650">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/license-MIT-green">
-  <img src="https://img.shields.io/badge/Security-Offensive-red">
-</p>
-
-<p align="center">
-  <a href="https://github.com/virg736/Analyse-Exploitation-XSS">
-    👉 Voir le projet sur GitHub
-  </a>
-</p>
 
 ## Analyse & Exploitation d’une Faille XSS - Dalfox + BeEF (Laboratoire Offensif Complet) 
 
