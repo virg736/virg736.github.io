@@ -135,9 +135,14 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
   <a href="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite" target="_blank">
     👉 Voir le projet sur GitHub
   </a>
-</p> 
+</p>  
 
-## Analyse & Exploitation d’une Faille XSS - Dalfox + BeEF (Laboratoire Offensif Complet) 
+</p>
+
+## 🛡️ Projet n°3 – Analyse & Exploitation d’une Faille XSS (Dalfox + BeEF)
+
+<p align="center">
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/virg736/Analyse-Exploitation-faille-XSS-Dalfox-BeEF/main/photo_XSS.PNG"
        alt="Analyse XSS Dalfox BeEF"
