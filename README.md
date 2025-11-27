@@ -81,6 +81,65 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
 
 ---
 
+<table style="width:100%; border-collapse: collapse; margin-top:20px;">
+    <thead>
+        <tr style="background:#f2f4f7; text-align:left;">
+            <th style="padding:12px; border-bottom:2px solid #ddd;">Projet</th>
+            <th style="padding:12px; border-bottom:2px solid #ddd;">Fonction</th>
+            <th style="padding:12px; border-bottom:2px solid #ddd;">Statut</th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        <tr>
+            <td style="padding:12px; border-bottom:1px solid #eee;">1</td>
+            <td style="padding:12px; border-bottom:1px solid #eee;">Crawler HTML récursif</td>
+            <td style="padding:12px; border-bottom:1px solid #eee;">
+                <span style="color:green; font-weight:bold;">✔ Terminé</span>
+            </td>
+        </tr>
+
+        <tr>
+            <td style="padding:12px; border-bottom:1px solid #eee;">2</td>
+            <td style="padding:12px; border-bottom:1px solid #eee;">Détection SQL Injection</td>
+            <td style="padding:12px; border-bottom:1px solid #eee;">
+                <span style="color:green; font-weight:bold;">✔ Terminé</span>
+            </td>
+        </tr>
+
+        <tr>
+            <td style="padding:12px; border-bottom:1px solid #eee;">3</td>
+            <td style="padding:12px; border-bottom:1px solid #eee;">Détection XSS</td>
+            <td style="padding:12px; border-bottom:1px solid #eee;">
+                <span style="color:green; font-weight:bold;">✔ Terminé</span>
+            </td>
+        </tr>
+
+        <tr>
+            <td style="padding:12px; border-bottom:1px solid #eee;">4</td>
+            <td style="padding:12px; border-bottom:1px solid #eee;">Recherche de données sensibles</td>
+            <td style="padding:12px; border-bottom:1px solid #eee;">
+                <span style="color:#999; font-weight:bold;">• À venir</span>
+            </td>
+        </tr>
+
+        <tr>
+            <td style="padding:12px; border-bottom:1px solid #eee;">5</td>
+            <td style="padding:12px; border-bottom:1px solid #eee;">Génération de rapports JSON / MD</td>
+            <td style="padding:12px; border-bottom:1px solid #eee;">
+                <span style="color:#999; font-weight:bold;">• À venir</span>
+            </td>
+        </tr>
+
+    </tbody>
+</table>
+
+---
+
+
+
+
 ## 🐍 Projet n°1 - CyberCrawler-Python
 
 <p align="center">
