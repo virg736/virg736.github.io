@@ -126,7 +126,6 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
   </a>
 </p>  
 
---- 
 
 
 <p align="center">
@@ -146,7 +145,7 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
   </a>
 </p> 
 
----   
+
 
 
 <h2 id="contact">Contact</h2>
