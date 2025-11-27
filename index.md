@@ -138,6 +138,27 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
 </p> 
 
 
+---
+
+## 🛡️ Projet n°3 – Analyse & Exploitation d’une Faille XSS (Dalfox + BeEF)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/virg736/Analyse-Exploitation-XSS/main/Images/xss-cover.png"
+       alt="Analyse XSS Dalfox BeEF"
+       width="650">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-green">
+  <img src="https://img.shields.io/badge/Security-Offensive-red">
+</p>
+
+<p align="center">
+  <a href="https://github.com/virg736/Analyse-Exploitation-XSS">
+    👉 Voir le projet sur GitHub
+  </a>
+</p>
+
 ## Analyse & Exploitation d’une Faille XSS - Dalfox + BeEF (Laboratoire Offensif Complet) 
 
 <p align="center">
