@@ -75,6 +75,9 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
 
 💡 *Tous les outils et commandes employés sont récents, stables et alignés avec les standards modernes de la cybersécurité, du pentest et de l’ingénierie de scripts.*
 
+---
+
+
 <h2 id="projects">My GitHub Projects</h2>
 
 ## 📊 Avancement global du projet
