@@ -140,7 +140,6 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
        width="650">
 </p>
 
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License">
