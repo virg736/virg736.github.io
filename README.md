@@ -155,6 +155,14 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
 ---
 
 <p align="center">
+  <a href="https://github.com/virg736/sensitive-data-exposure-lab/actions/workflows/check_passwords.yml">
+    <img src="https://github.com/virg736/sensitive-data-exposure-lab/actions/workflows/check_passwords.yml/badge.svg" alt="Check passwords (educational)">
+  </a>
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
+</p>
+
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/virg736/sensitive-data-exposure-lab/main/cover-sensitive-data-exposure.PNG"
        alt="Sensitive Data Exposure"
        width="650">
