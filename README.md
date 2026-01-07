@@ -35,11 +35,11 @@ J’y ai développé :
 
 Le projet illustre mes compétences en :
 
-- ⚙️ **automatisation offensive** (scripts Python, exploitation)  
-- 🧠 **analyse de vulnérabilités**  
-- 🧪 **méthodologie de test d’intrusion**  
-- 🏗️ **conception d’environnement de test**  
-- 📝 **documentation technique et reporting**  
+-  **automatisation offensive** (scripts Python, exploitation)  
+-  **analyse de vulnérabilités**  
+-  **méthodologie de test d’intrusion**  
+-  **conception d’environnement de test**  
+-  **documentation technique et reporting**  
 
 Ce travail démontre ma capacité à **concevoir, automatiser et documenter un audit complet**, d’un point de vue ingénierie comme opérationnel.
 
@@ -75,7 +75,7 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
 | **1**  | Crawler HTML récursif            | 🟩 Terminé |
 | **2**  | Détection SQL Injection          | 🟩 Terminé |
 | **3**  | Détection XSS                    | 🟩 Terminé |
-| **4**  | Recherche de données sensibles   | ✅ Validé  |
+| **4**  | Recherche de données sensibles   | ✅ Terminé |
 | **5**  | Génération de rapports JSON / MD | ⚪ À venir |
 
 
@@ -165,7 +165,7 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
 
 <p align="center">
   <a href="https://github.com/virg736/sensitive-data-exposure-lab" target="_blank">
-    🔗 Accéder au projet
+    👉  Accéder au projet
   </a>
 </p>
 
