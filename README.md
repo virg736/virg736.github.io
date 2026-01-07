@@ -154,7 +154,7 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
 
 ---
 
-<h1 align="center">Sensitive Data Exposure - Environment Control</h1>
+<h1 align="center"> Projet n°2 Sensitive Data Exposure - Environment Control</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/virg736/sensitive-data-exposure-lab/main/cover-sensitive-data-exposure.PNG"
