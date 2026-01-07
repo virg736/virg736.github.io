@@ -151,6 +151,23 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
 </p> 
 
 
+<p align="center">
+  <img src="cover-sensitive-data-exposure.png" alt="Sensitive Data Exposure" width="70%">
+</p>
+
+<h1 align="center">Sensitive Data Exposure – Environment Control</h1>
+
+<p align="center">
+  <a href="https://github.com/virg736/sensitive-data-exposure-lab">
+    🔗 Accéder au projet
+  </a>
+</p>
+
+<p align="center">
+  Ce projet démontre, dans un environnement strictement contrôlé,  
+  comment des données sensibles peuvent être exposées involontairement  
+  via une page web et détectées automatiquement à l’aide d’un script Python.
+</p>
 
 
 <h2 id="contact">Contact</h2>
