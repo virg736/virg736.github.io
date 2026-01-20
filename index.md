@@ -87,7 +87,7 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
 | **1**  | Crawler HTML récursif            | 🟩 Terminé |
 | **2**  | Détection SQL Injection          | 🟩 Terminé |
 | **3**  | Détection XSS                    | 🟩 Terminé |
-| **4**  | Recherche de données sensibles   | ⚪ À venir |
+| **4**  | Recherche de données sensibles   | 🟩 Terminé |
 | **5**  | Génération de rapports JSON / MD | ⚪ À venir |
 
 
@@ -139,6 +139,8 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
 
 </p>
 
+---
+
 ## 🛡️ Projet n°3 - Analyse & Exploitation d’une Faille XSS (Dalfox + BeEF)
 
 <p align="center">
@@ -158,8 +160,29 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
   </a>
 </p>
 
+---
+
+<p align="center">
+  <a href="https://github.com/virg736/sensitive-data-exposure-lab" target="_blank">
+    👉  Accéder au projet
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/virg736/sensitive-data-exposure-lab/actions/workflows/check_passwords.yml">
+    <img src="https://github.com/virg736/sensitive-data-exposure-lab/actions/workflows/check_passwords.yml/badge.svg" alt="Check passwords (educational)">
+  </a>
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
+</p>
 
 
+<p align="center">
+  Ce projet démontre, dans un environnement strictement contrôlé,
+  comment des données sensibles peuvent être exposées involontairement
+  via une page web et détectées automatiquement à l’aide d’un script Python.
+</p>
+
+---
 
 <h2 id="contact">Contact</h2>
 
