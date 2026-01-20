@@ -162,6 +162,14 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
 
 ---
 
+<h1 align="center">🛡️ Projet n°4 - Sensitive Data Exposure - Environment Control</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/virg736/sensitive-data-exposure-lab/main/cover-sensitive-data-exposure.PNG"
+       alt="Sensitive Data Exposure"
+       width="650">
+</p>
+
 <p align="center">
   <a href="https://github.com/virg736/sensitive-data-exposure-lab" target="_blank">
     👉  Accéder au projet
@@ -182,7 +190,9 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
   via une page web et détectées automatiquement à l’aide d’un script Python.
 </p>
 
----
+
+
+
 
 <h2 id="contact">Contact</h2>
 
