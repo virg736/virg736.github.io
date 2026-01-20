@@ -45,11 +45,11 @@ J’y ai développé :
 
 Le projet illustre mes compétences en :
 
-- ⚙️ **automatisation offensive** (scripts Python, exploitation)  
-- 🧠 **analyse de vulnérabilités**  
-- 🧪 **méthodologie de test d’intrusion**  
-- 🏗️ **conception d’environnement de test**  
-- 📝 **documentation technique et reporting**  
+-  **automatisation offensive** (scripts Python, exploitation)  
+-  **analyse de vulnérabilités**  
+-  **méthodologie de test d’intrusion**  
+-  **conception d’environnement de test**  
+-  **documentation technique et reporting**  
 
 Ce travail démontre ma capacité à **concevoir, automatiser et documenter un audit complet**, d’un point de vue ingénierie comme opérationnel.
 
