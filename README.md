@@ -152,7 +152,7 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
   </a>
 </p> 
 
----
+
 
 <h1 align="center">🛡️ Projet n°4 - Sensitive Data Exposure - Environment Control</h1>
 
