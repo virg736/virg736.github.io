@@ -182,7 +182,7 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
   via une page web et détectées automatiquement à l’aide d’un script Python.
 </p>
 
-___
+
 
 <h2 id="contact">Contact</h2>
 
