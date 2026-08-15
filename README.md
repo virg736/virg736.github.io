@@ -111,7 +111,7 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
      alt="Couverture Projet Python"
      width="650">
 
-  
+
 </p>
 <p align="center">
   <a href="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/actions/workflows/python-ci.yml">
