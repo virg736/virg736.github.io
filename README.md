@@ -125,6 +125,11 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
   </a>
 </p>  
 
+<img src="https://raw.githubusercontent.com/virg736/Python-SQLi-JuiceShop-BurpSuite/main/Projet%20python.PNG"
+     alt="Couverture Projet Python"
+     width="650">
+
+
 ---
 
 </p>
