@@ -88,7 +88,7 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
 | **2**  | Détection SQL Injection          | 🟩 Terminé |
 | **3**  | Détection XSS                    | 🟩 Terminé |
 | **4**  | Recherche de données sensibles   | 🟩 Terminé |
-| **5**  | Génération de rapports JSON / MD | ⚪ À venir |
+
 
 
 ---
@@ -121,9 +121,9 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
 </h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/virg736/Python-SQLi-JuiceShop-BurpSuite/main/Projet%20python.PNG"
-       alt="Couverture Projet Python"
-       width="900" style="max-width:100%;height:auto;">
-</p>
+     alt="Couverture Projet Python"
+     width="650">
+
 <p align="center">
   <a href="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/actions/workflows/python-ci.yml">
     <img src="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/actions/workflows/python-ci.yml/badge.svg" alt="Python CI">
