@@ -138,8 +138,6 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
 </p>  
 
 
----
-
 </p>
 
 <p align="center">
