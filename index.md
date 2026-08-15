@@ -139,7 +139,6 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
 
 ---
 
-
 <p align="center">
 
 <p align="center">
