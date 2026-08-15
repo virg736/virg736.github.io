@@ -137,10 +137,9 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
   </a>
 </p>  
 
-</p>
-
 ---
 
+</p>
 
 ## 🛡️ Projet n°3 - Analyse & Exploitation d’une Faille XSS (Dalfox + BeEF)
 
