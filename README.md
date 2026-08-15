@@ -76,7 +76,6 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
 | **2**  | Détection SQL Injection          | 🟩 Terminé |
 | **3**  | Détection XSS                    | 🟩 Terminé |
 | **4**  | Recherche de données sensibles   | ✅ Terminé |
-| **5**  | Génération de rapports JSON / MD | ⚪ À venir |
 
 
 ---
