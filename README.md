@@ -107,9 +107,11 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
 
 </h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/virg736/Python-SQLi-JuiceShop-BurpSuite/main/Projet%20python.PNG"
-       alt="Couverture Projet Python"
-       width="900" style="max-width:100%;height:auto;">
+<img src="https://raw.githubusercontent.com/virg736/Python-SQLi-JuiceShop-BurpSuite/main/Projet%20python.PNG"
+     alt="Couverture Projet Python"
+     width="650">
+
+  
 </p>
 <p align="center">
   <a href="https://github.com/virg736/Python-SQLi-JuiceShop-BurpSuite/actions/workflows/python-ci.yml">
@@ -124,10 +126,6 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
     👉 Voir le projet sur GitHub
   </a>
 </p>  
-
-<img src="https://raw.githubusercontent.com/virg736/Python-SQLi-JuiceShop-BurpSuite/main/Projet%20python.PNG"
-     alt="Couverture Projet Python"
-     width="650">
 
 
 ---
