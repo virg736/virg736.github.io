@@ -60,7 +60,7 @@ Ce travail démontre ma capacité à **concevoir, automatiser et documenter un a
 
 Dans le cadre de ce projet, j’ai appliqué une approche complète d’**ingénierie en cybersécurité**, mêlant techniques **offensives** (pentest, exploitation, automatisation) et **défensives** (analyse, durcissement, validation des risques).
 
- Mes projets s'appuient sur des outils et commandes**modernes**, couramment utilisés dans les environnements de la cybersécurité :
+ Mes projets s'appuient sur des outils et commandes **modernes**, couramment utilisés dans les environnements de la cybersécurité :
 
 - **Python 3** → langage principal pour l’automatisation offensive et défensive  
 - **Requests & BeautifulSoup4** → analyse et crawling avancé des pages web  
