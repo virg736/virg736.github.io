@@ -48,7 +48,7 @@ Ce travail démontre ma capacité à **concevoir, automatiser et documenter un a
 
 Dans le cadre de ce projet, j’ai appliqué une approche complète d’**ingénierie en cybersécurité**, mêlant techniques **offensives** (pentest, exploitation, automatisation) et **défensives** (analyse, durcissement, validation des risques).
 
-J’utilise exclusivement des outils et commandes **modernes**, conformes aux pratiques actuelles de la cybersécurité :
+Mes projets s'appuient sur des outils et commandes **modernes**, couramment utilisés dans les environnements de la cybersécurité :
 
 - **Python 3** → langage principal pour l’automatisation offensive et défensive  
 - **Requests & BeautifulSoup4** → analyse et crawling avancé des pages web  
@@ -61,7 +61,7 @@ J’utilise exclusivement des outils et commandes **modernes**, conformes aux pr
 - **Dalfox** → scanner XSS moderne, rapide et orienté détecteur logique  
 - **BeEF (Browser Exploitation Framework)** → exploitation avancée XSS côté navigateur (hooking, modules d’attaque)
 
-💡 *Tous les outils et commandes employés sont récents, stables et alignés avec les standards modernes de la cybersécurité, du pentest et de l’ingénierie de scripts.*
+💡 *Les outils sont sélectionnés pour leur pertinence technique et leur usage dans des environnements de cybersécurité actuels*
 
 
 ---
